@@ -19,71 +19,71 @@
 
 BitFinance will take measures to prevent BitFinance and its employees from being exposed to money laundering, to identify areas in which money laundering may occur and to comply with legal and regulatory requirements. It is the responsibility of every employee to be vigilant and act promptly in all suspected cases.
 
-# Introduction
+## 1. Introduction
 
-## General overview
+### 1.1 General overview
 
 - This Policies Manual (the “Manual”) sets out the policies and procedures which are applicable to all activities and transactions of BitFinance.
 - The policies and procedures set out in this Manual are to be followed at all times. Failure to comply with the requirements of these policies and procedures may result in disciplinary action.
 - Where these policies and procedures are in conflict with the Zimbabwean law, the Articles or the Memorandum, precedence shall be given to the  Zimbabwean law, the Articles and the Memorandum (in that order).
 - It is the responsibility of all staff of BitFinance to familiarise themselves with the contents of these policies and procedures.  Ignorance of the contents of this Manual will not be accepted as a reason for failure to comply with policies and procedures.
 
-## The [Money Laundering and Proceeds of Crime Act \[Chapter 9:24\] \(No.4 of 2013\)](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf) places obligations on BitFinance and its employees the following key points with respect to suspected money laundering:
+ **1.2 The [Money Laundering and Proceeds of Crime Act](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf) places obligations on BitFinance and its employees the following key points with respect to suspected money laundering:**
 
 - The detection of suspected money laundering.
 - Exercising vigilance for signs of money laundering.
 - Carrying out certain due diligence for regulated activities conducted in the day to day business operations.
 
-# The Policy
+## 2 The Policy
 
-## This policy applies to all employees and members of BitFinance, and sets out procedures for the documentation and handling of suspected money laundering activities with the aim to reduce potential criminal activity. The policy defines procedures that will assist BitFinance to comply with its legal obligations.
+**2.1 This policy applies to all employees and members of BitFinance, and sets out procedures for the documentation and handling of suspected money laundering activities with the aim to reduce potential criminal activity. The policy defines procedures that will assist BitFinance to comply with its legal obligations.**
 
-## Failure of an officer to comply with the procedures defined within this policy may lead to disciplinary action.
+**2.2 Failure of an officer to comply with the procedures defined within this policy may lead to disciplinary action.**
 
-## Failure of a member to comply with the procedures defined within this policy will be reported to the Executive Directors for further action.
+**2.3 Failure of a member to comply with the procedures defined within this policy will be reported to the Executive Directors for further action.**
 
 
-# Statement of the Policy
+##3 Statement of the Policy
 
-## Purpose -The purpose of this policy is to provide guidance regarding the prevention, detection and the control of possible money laundering activities and terrorism financing.
+**3.1 Purpose -The purpose of this policy is to provide guidance regarding the prevention, detection and the control of possible money laundering activities and terrorism financing.**
 
-## Scope - This policy shall apply to all transactions that BitFinance indulges in. It highlights methods of prudent customer identification, record keeping, identification of suspicious activities and the need to report such activities to the appropriate authority for further investigation.
+**3.2 Scope - This policy shall apply to all transactions that BitFinance indulges in. It highlights methods of prudent customer identification, record keeping, identification of suspicious activities and the need to report such activities to the appropriate authority for further investigation.**
 
-## Responsibility - It is the responsibility of the Board of Directors and management of BitFinance to ensure that this policy on anti-money laundering is adhered to and that all staff are trained on the procedures to ensure adequate identification of customers, source of funds and the use of the said funds. This policy should also ensure the effective prevention, detection and control of possible money laundering and terrorism financing.
+**3.3 Responsibility - It is the responsibility of the Board of Directors and management of BitFinance to ensure that this policy on anti-money laundering is adhered to and that all staff are trained on the procedures to ensure adequate identification of customers, source of funds and the use of the said funds. This policy should also ensure the effective prevention, detection and control of possible money laundering and terrorism financing.**
 
-# What is Money Laundering?
+## 4 What is Money Laundering?
 
-## Money laundering is the process by which criminally obtained money or other assets (criminal property) are exchanged for ‘clean’ money or other assets with no obvious link to their criminal origins. Criminal property may take any form, including money or money’s worth, securities, tangible property and intangible property. It also covers money, however come by, which is used to fund terrorism.
+**4.1 Money laundering is the process by which criminally obtained money or other assets (criminal property) are exchanged for ‘clean’ money or other assets with no obvious link to their criminal origins. Criminal property may take any form, including money or money’s worth, securities, tangible property and intangible property. It also covers money, however come by, which is used to fund terrorism.**
 
-## Money laundering is a term used which relates to offences involving the proceeds of crime or terrorism funds.
+**4.2 Money laundering is a term used which relates to offences involving the proceeds of crime or terrorism funds.**
 
-## The [Money Laundering and Proceeds of Crime Act \[Chapter 9:24\] \(No.4 of 2013\)](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf) makes it an offence for any person to enter into an agreement or engage in any arrangement or transaction with anyone in connection with property that forms part of the proceeds of crime, whether that agreement, arrangement or transaction is legally enforceable or not and whose effect is to:
+**4.3 The [Money Laundering and Proceeds of Crime Act](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf) makes it an offence for any person to enter into an agreement or engage in any arrangement or transaction with anyone in connection with property that forms part of the proceeds of crime, whether that agreement, arrangement or transaction is legally enforceable or not and whose effect is to:**
 
 - Conceal or disguise the nature, source, location, disposition, movement or ownership of the said property or,
 - Enable or assist any person who has committed or commits an offence, whether in Zimbabwe or elsewhere to avoid prosecution; or,
 - Remove or diminish any property acquired directly, or indirectly, as a result of the commission of an offence.
 
-# Stages of Money Laundering
+## 5. Stages of Money Laundering
 
-## Despite the variety of methods employed, the laundering process is accomplished in three stages. These stages, described below, may comprise numerous transactions by the launderers that could alert an institution of the criminal activity.
+**5.1 Despite the variety of methods employed, the laundering process is accomplished in three stages. These stages, described below, may comprise numerous transactions by the launderers that could alert an institution of the criminal activity.**
 
 - **Placement** - the physical disposal of the initial proceeds derived from illegal activity.
 - **Layering** - separating illicit proceeds from their source by creating complex layers of financial transactions designed to disguise the audit trail and provide anonymity.
 - **Integration** - the provision of apparent legitimacy to criminally derived wealth. If the layering process has succeeded, an integration scheme places the laundered proceeds back into the economy in such a way that they re-enter the financial system appearing as normal business funds.
 
-# All BitFinance employees are prohibited from indulging in business activities that can be categorised as money laundering or terrorism financing activities.
+**5.2 All BitFinance employees are prohibited from indulging in business activities that can be categorised as money laundering or terrorism financing activities.**
 
-# Proceeds of Crime
+## 6. Proceeds of Crime
 
-## This is any property or economic advantage derived or realized, directly or indirectly, as a result of or in connection with an offence irrespective of the identity of the offender and includes, on a proportional basis, property into which any property derived or realized directly from the offence was later successively converted, transformed or intermingled, as well as income, capital or other economic gains or benefits derived or realized from such property from the time the offence was committed;
+**6.1 This is any property or economic advantage derived or realized, directly or indirectly, as a result of or in connection with an offence irrespective of the identity of the offender and includes, on a proportional basis, property into which any property derived or realized directly from the offence was later successively converted, transformed or intermingled, as well as income, capital or other economic gains or benefits derived or realized from such property from the time the offence was committed;**
 
-# Risks and Obligations to BitFinance
+## 7. Risks and Obligations to BitFinance
 
-## The risk to BitFinance of breaching legislation is considered high therefore, employees in all areas should be aware that they could be potentially exposed to money laundering acts. It is important that all employees are aware of their responsibility to report any suspicions of money laundering activity as detailed within this policy. All employees are responsible for acting promptly and reporting any suspicions to prevent any breach of legislation which can lead to serious criminal penalties.
+**7.1 The risk to BitFinance of breaching legislation is considered high therefore, employees in all areas should be aware that they could be potentially exposed to money laundering acts. It is important that all employees are aware of their responsibility to report any suspicions of money laundering activity as detailed within this policy. All employees are responsible for acting promptly and reporting any suspicions to prevent any breach of legislation which can lead to serious criminal penalties.**
 
-# Suspicious and Prohibited Transactions
+## 8. Suspicious and Prohibited Transactions
 
-## Where electronic transactions exceed the threshold limit provided by the Reserve Bank of Zimbabwe guidance notes on large transactions, BitFinance shall demand the following details from its customers:
+**8.1 Where electronic transactions exceed the threshold limit provided by the Reserve Bank of Zimbabwe guidance notes on large transactions, BitFinance shall demand the following details from its customers:**
 
 - Why the customer is dealing in large cash and not banking services
 - What the money is to be used for
@@ -91,72 +91,72 @@ BitFinance will take measures to prevent BitFinance and its employees from being
 - Full identity of intended beneficiaries
 - Source of the money
 
-##  Where a customer is unable to furnish any of the above information or provides any false information to the questions, BitFinance shall cease transactions with the customer immediately.
+**8.2  Where a customer is unable to furnish any of the above information or provides any false information to the questions, BitFinance shall cease transactions with the customer immediately.**
 
-# What is a Suspicious Transaction?
+## 9. What is a Suspicious Transaction?
 
-## Suspicious transactions have many broad characteristics. However, as a general rule, a suspicious transaction is one that departs from the normal patterns of account activity that has been noted on a customer's account. Any complex, unusually large transaction(s), or, any unusual pattern of transaction(s) absent of any apparent economic, commercial, or lawful purpose may be considered to be a suspicious transaction.
+**9.1 Suspicious transactions have many broad characteristics. However, as a general rule, a suspicious transaction is one that departs from the normal patterns of account activity that has been noted on a customer's account. Any complex, unusually large transaction(s), or, any unusual pattern of transaction(s) absent of any apparent economic, commercial, or lawful purpose may be considered to be a suspicious transaction.**
 
-## To be able to identify transactions that appear to be suspicious, BitFinance shall take appropriate measures to ensure that it knows its customers‟ (KYC): These measures will include:
+**9.2To be able to identify transactions that appear to be suspicious, BitFinance shall take appropriate measures to ensure that it knows its customers‟ (KYC): These measures will include:**
 
 - Customer identification and verification;
 - Conducting ongoing monitoring of accounts;
 - Reviewing transaction patterns and volumes so as to be able to assess whether the activity on the accounts are consistent with the line of business or occupation of the customer;
 - Considering any additional risks, e.g. type of business the customer engages in, the origin of transactions.
 
-# Suspicious Transactions
+## 10. Suspicious Transactions
 
-## BitFinance  shall monitor on an ongoing basis all complex, unusual, suspicious, large or such other transactions as may be specified in the regulations, whether completed or not, and shall pay attention to all unusual patterns of transactions, and to insignificant but periodic patterns of transactions which have no apparent economic or lawful purpose as stipulated in the regulations.
+**10.1 BitFinance  shall monitor on an ongoing basis all complex, unusual, suspicious, large or such other transactions as may be specified in the regulations, whether completed or not, and shall pay attention to all unusual patterns of transactions, and to insignificant but periodic patterns of transactions which have no apparent economic or lawful purpose as stipulated in the regulations.**
 
-## Upon suspicion that any suspicious transactions or activities or any other transaction or activity that could constitute or be related to money laundering or to the proceeds of crime, BitFinance employees shall document the suspicious or unusual transaction or activity in the prescribed form immediately.
+**10.2 Upon suspicion that any suspicious transactions or activities or any other transaction or activity that could constitute or be related to money laundering or to the proceeds of crime, BitFinance employees shall document the suspicious or unusual transaction or activity in the prescribed form immediately.**
 
-## BitFinance shall as far as possible examine the background and purpose of any suspicious transactions and shall set out its findings in writing.
+**10.3 BitFinance shall as far as possible examine the background and purpose of any suspicious transactions and shall set out its findings in writing.**
 
-## BitFinance shall retain its findings of any suspicious translations as per the Zimbabwean prescribed laws and regulation.
+**10.4 BitFinance shall retain its findings of any suspicious translations as per the Zimbabwean prescribed laws and regulation.**
 
-## BitFinance shall document all money transactions equivalent to or exceeding the amount prescribed in the Fourth Schedule of the [Money Laundering and Proceeds of Crime Act \[Chapter 9:24\] \(No.4 of 2013\)](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf) of amounts totaling US$ 10,000, whether they appear to be suspicious or not.
+**10.5 BitFinance shall document all money transactions equivalent to or exceeding the amount prescribed in the Fourth Schedule of the [Money Laundering and Proceeds of Crime Act](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf) of amounts totaling US$ 10,000, whether they appear to be suspicious or not.**
 
-# Prohibited Transactions
+## 11. Prohibited Transactions
 
-## BitFinance shall not conduct its day to day business transactions in cash. All money transactions shall be conducted electronically.
+**11.1 BitFinance shall not conduct its day to day business transactions in cash. All money transactions shall be conducted electronically.**
 
-## BitFinance is registered in Zimbabwe and Zimbabwe being a member of the United Nations is party to several major international protocols relating to anti-money laundering and combating the financing of terrorism. BitFinance will therefore not transact with individuals and entities that are suspected to be linked to terrorism.
+**11.2 BitFinance is registered in Zimbabwe and Zimbabwe being a member of the United Nations is party to several major international protocols relating to anti-money laundering and combating the financing of terrorism. BitFinance will therefore not transact with individuals and entities that are suspected to be linked to terrorism.**
 
-## BitFinance will not transact with individuals and entities that engage in or are considered to be main financiers of conflict in Somalia and other jurisdictions.
+**11.3 BitFinance will not transact with individuals and entities that engage in or are considered to be main financiers of conflict in Somalia and other jurisdictions.**
 
-## BitFinance shall not transact with Foreign Terrorist Organisations as provided for by the [United States Department of State Bureau of Counter terrorism](http://www.state.gov/j/ct/rls/other/des/123085.htm)
+**11.4 BitFinance shall not transact with Foreign Terrorist Organisations as provided for by the [United States Department of State Bureau of Counter terrorism](http://www.state.gov/j/ct/rls/other/des/123085.htm)**
 
-## BitFinance will not transact with individuals from high risk and non cooperative jurisdictions as shall be provided for from time to time by the Financial Action Task Force.
+**11.5 BitFinance will not transact with individuals from high risk and non cooperative jurisdictions as shall be provided for from time to time by the Financial Action Task Force.**
 
-# The Executive Director
+## 12. The Executive Director
 
-## The officer nominated to receive disclosures about money laundering activity is the Executive Director. The Executive Director will deal with all disclosures confidentially and in the appropriate manner, all reports will be retained as per Zimbabwean rules and regulations.
+**12.1 The officer nominated to receive disclosures about money laundering activity is the Executive Director. The Executive Director will deal with all disclosures confidentially and in the appropriate manner, all reports will be retained as per Zimbabwean rules and regulations.**
 
-# Filing and Documentation
+## 13. Filing and Documentation
 
-## Any suspect money laundering activity shall be documented and reported promptly to the Executive Director.
+**13.1 Any suspect money laundering activity shall be documented and reported promptly to the Executive Director.**
 
-## No further enquiries should be made about the suspected money laundering after reporting to the Executive Director for action. No further steps in any transaction relating to the suspected money laundering should be made without authorisation from the Executive Director.
+**13.2 No further enquiries should be made about the suspected money laundering after reporting to the Executive Director for action. No further steps in any transaction relating to the suspected money laundering should be made without authorisation from the Executive Director.**
 
-## No disclosure should be made to others that would indicate suspicions of money laundering. Any officer reporting should not discuss the matter with others or note on file that a report has been made to the Executive Director as this may result in the suspect becoming aware of the situation.
+**13.3 No disclosure should be made to others that would indicate suspicions of money laundering. Any officer reporting should not discuss the matter with others or note on file that a report has been made to the Executive Director as this may result in the suspect becoming aware of the situation.**
 
-# Internal Reporting Procedures
+## 14. Internal Reporting Procedures
 
-## BitFinance shall maintain internal controls and internal reporting procedures through which an employee is to report any information which comes to the employee’s attention in the course of employment and which gives rise to knowledge or suspicion by the employee that another person is engaged in money laundering.
+**14.1 BitFinance shall maintain internal controls and internal reporting procedures through which an employee is to report any information which comes to the employee’s attention in the course of employment and which gives rise to knowledge or suspicion by the employee that another person is engaged in money laundering.**
 
-## All transactions above and equivalent to USD 10,000 shall be accompanied by appropriate information from the customer through BitFinance prescribed forms.
+**14.2 All transactions above and equivalent to USD 10,000 shall be accompanied by appropriate information from the customer through BitFinance prescribed forms.**
 
-# Customer Due Diligence
+## 15. Customer Due Diligence
 
-## BitFinance shall carry out customer due diligence  to ensure that  requirements of the anti money laundering and combating financing of terrorism are observed. This is known as customer due diligence. BitFinance will conduct its customer due diligence through Know Your Client procedures when on-boarding new clients as per the [Money Laundering and Proceeds of Crime Act \[Chapter 9:24\] \(No.4 of 2013\)](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf).
+**15.1 BitFinance shall carry out customer due diligence  to ensure that  requirements of the anti money laundering and combating financing of terrorism are observed. This is known as customer due diligence. BitFinance will conduct its customer due diligence through Know Your Client procedures when on-boarding new clients as per the [Money Laundering and Proceeds of Crime Act](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf).**
 
-## Factors to be considered as customer due diligence shall include:
+**15.2 Factors to be considered as customer due diligence shall include:**
 
 - KYC requirements.
 - Transactional limits per day, month and year (limits commensurate with customer’s profile).
 - Two factor authentication per customer per transaction.
 
-## BitFinance shall take reasonable measures to satisfy itself as to the true identity of any applicant seeking to enter into a business relationship with it or to carry out a transaction or series of transactions with it, by requiring the applicant to produce an official record reasonably capable of establishing the true identity of the applicant, such as:
+**15.3 BitFinance shall take reasonable measures to satisfy itself as to the true identity of any applicant seeking to enter into a business relationship with it or to carry out a transaction or series of transactions with it, by requiring the applicant to produce an official record reasonably capable of establishing the true identity of the applicant, such as:**
 
 - In the case of an individual;
   - a birth certificate;
@@ -171,21 +171,21 @@ BitFinance will take measures to prevent BitFinance and its employees from being
 - In the case of a government department:
   - a letter from the accounting officer.
 
-## BitFinance shall retain clients identifications for duration prescribed by regulation after the end of the business relationship.
+**15.4 BitFinance shall retain clients identifications for duration prescribed by regulation after the end of the business relationship.**
 
-# Guidance and Training
+## 16. Guidance and Training
 
-## BitFinance will make all employees aware of the requirements and obligations placed on it by the [Money Laundering and Proceeds of Crime Act \[Chapter 9:24\] \(No.4 of 2013\)](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf) of Zimbabwe and give targeted training to those most likely to encounter money laundering.
+**16.1 BitFinance will make all employees aware of the requirements and obligations placed on it by the [Money Laundering and Proceeds of Crime Act](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf) of Zimbabwe and give targeted training to those most likely to encounter money laundering.**
 
-# Further Information
+## 17. Further Information
 
-## Further information can be obtained from the following sources:
+**17.1 Further information can be obtained from the following sources:**
 
--  [Money Laundering and Proceeds of Crime Act \[Chapter 9:24\] \(No.4 of 2013\)](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf)
+-  [Money Laundering and Proceeds of Crime Act](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf)
 
-# Policy Reviews
+## 18. Policy Reviews
 
-## The Executive Directors of BitFinance will ensure the continuous review and amendment of this policy document, to ensure that it remains compliant with best practise and regulations.
+**18.1 The Executive Directors of BitFinance will ensure the continuous review and amendment of this policy document, to ensure that it remains compliant with best practice and regulations.**
 
 **Responsible Officer:**  CEO
 
