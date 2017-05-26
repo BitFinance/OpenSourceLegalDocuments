@@ -2,16 +2,14 @@
 
 .Document Control
 |===
-| Last Review Date |  Review Undertaken By |  Next Review Date
-| --- | --- | --- | ---
+| **Last Review Date** |  **Review Undertaken By** |  **Next Review Date**
 | - | - | -
 | - | - | -
 |===
 
 .Document Approvals
 |===
-| Name | Title | Date of Issue | Version Number
---- | --- | --- | ---
+| **Name** | **Title** | **Date of Issue** | **Version Number**
 | - | - | - | -
 | - | - | - | -
 |===
@@ -28,7 +26,7 @@ BitFinance will take measures to prevent BitFinance and its employees from being
 - Where these policies and procedures are in conflict with the Zimbabwean law, the Articles or the Memorandum, precedence shall be given to the  Zimbabwean law, the Articles and the Memorandum (in that order).
 - It is the responsibility of all staff of BitFinance to familiarise themselves with the contents of these policies and procedures.  Ignorance of the contents of this Manual will not be accepted as a reason for failure to comply with policies and procedures.
 
- **1.2 The [Money Laundering and Proceeds of Crime Act](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf) places obligations on BitFinance and its employees the following key points with respect to suspected money laundering:**
+ **1.2 The Money Laundering and Proceeds of Crime Act places obligations on BitFinance and its employees the following key points with respect to suspected money laundering:**
 
 - The detection of suspected money laundering.
 - Exercising vigilance for signs of money laundering.
@@ -57,7 +55,7 @@ BitFinance will take measures to prevent BitFinance and its employees from being
 
 **4.2 Money laundering is a term used which relates to offences involving the proceeds of crime or terrorism funds.**
 
-**4.3 The [Money Laundering and Proceeds of Crime Act](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf) makes it an offence for any person to enter into an agreement or engage in any arrangement or transaction with anyone in connection with property that forms part of the proceeds of crime, whether that agreement, arrangement or transaction is legally enforceable or not and whose effect is to:**
+**4.3 The Money Laundering and Proceeds of Crime Act makes it an offence for any person to enter into an agreement or engage in any arrangement or transaction with anyone in connection with property that forms part of the proceeds of crime, whether that agreement, arrangement or transaction is legally enforceable or not and whose effect is to:**
 
 - Conceal or disguise the nature, source, location, disposition, movement or ownership of the said property or,
 - Enable or assist any person who has committed or commits an offence, whether in Zimbabwe or elsewhere to avoid prosecution; or,
@@ -114,7 +112,7 @@ BitFinance will take measures to prevent BitFinance and its employees from being
 
 **10.4 BitFinance shall retain its findings of any suspicious translations as per the Zimbabwean prescribed laws and regulation.**
 
-**10.5 BitFinance shall document all money transactions equivalent to or exceeding the amount prescribed in the Fourth Schedule of the [Money Laundering and Proceeds of Crime Act](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf) of amounts totaling US$ 10,000, whether they appear to be suspicious or not.**
+**10.5 BitFinance shall document all money transactions equivalent to or exceeding the amount prescribed in the Fourth Schedule of the Money Laundering and Proceeds of Crime Act of amounts totaling US$ 10,000, whether they appear to be suspicious or not.**
 
 ## 11. Prohibited Transactions
 
@@ -148,7 +146,7 @@ BitFinance will take measures to prevent BitFinance and its employees from being
 
 ## 15. Customer Due Diligence
 
-**15.1 BitFinance shall carry out customer due diligence  to ensure that  requirements of the anti money laundering and combating financing of terrorism are observed. This is known as customer due diligence. BitFinance will conduct its customer due diligence through Know Your Client procedures when on-boarding new clients as per the [Money Laundering and Proceeds of Crime Act](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf).**
+**15.1 BitFinance shall carry out customer due diligence  to ensure that  requirements of the anti money laundering and combating financing of terrorism are observed. This is known as customer due diligence. BitFinance will conduct its customer due diligence through Know Your Client procedures when on-boarding new clients as per the Money Laundering and Proceeds of Crime Act.**
 
 **15.2 Factors to be considered as customer due diligence shall include:**
 
@@ -175,13 +173,13 @@ BitFinance will take measures to prevent BitFinance and its employees from being
 
 ## 16. Guidance and Training
 
-**16.1 BitFinance will make all employees aware of the requirements and obligations placed on it by the [Money Laundering and Proceeds of Crime Act](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf) of Zimbabwe and give targeted training to those most likely to encounter money laundering.**
+**16.1 BitFinance will make all employees aware of the requirements and obligations placed on it by the Money Laundering and Proceeds of Crime Act of Zimbabwe and give targeted training to those most likely to encounter money laundering.**
 
 ## 17. Further Information
 
 **17.1 Further information can be obtained from the following sources:**
 
--  [Money Laundering and Proceeds of Crime Act](http://www.fiu.co.zw/Money%20Laundering%20and%20Proceeds%20of%20Crime%20Act.pdf)
+-  Money Laundering and Proceeds of Crime Act
 
 ## 18. Policy Reviews
 
