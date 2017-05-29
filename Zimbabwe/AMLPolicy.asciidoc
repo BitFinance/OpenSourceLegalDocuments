@@ -188,3 +188,7 @@ BitFinance will take measures to prevent BitFinance and its employees from being
 **Responsible Officer:**  CEO
 
 **Review Date:** Biannually from June 2017
+
+## Copyright
+
+This document is licensed under a GNU General Public License v3.0

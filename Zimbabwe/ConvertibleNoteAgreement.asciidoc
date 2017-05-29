@@ -1,124 +1,155 @@
-#Convertible Note Agreement
+# Convertible Note Agreement
 
-Issuer:  *<YOUR_COMPANY_NAME_HERE>* (Company Reg Number *<COMPANY_REGISTRATION_NUMBER_HERE>*) (hereinafter referred to as the “issuer”), a company duly incorporated in terms of the laws of Zimbabwe, situated at *<YOUR_COMPANY_ADDRESS_HERE>*.
+*Issuer:*  **<YOUR_COMPANY_NAME_HERE>** (Company Reg Number **<COMPANY_REGISTRATION_NUMBER_HERE>**) (hereinafter referred to as the “issuer”), a company duly incorporated in terms of the laws of Zimbabwe, situated at *<YOUR_COMPANY_ADDRESS_HERE>*.
 
-Purchaser:  <NAME_GOES_HERE>    (hereinafter referred to as “Purchaser” which expression shall, where the context so requires, include Purchaser’s successors in title and permitted assigns).
+*Purchaser:*  **<NAME_GOES_HERE>**    (hereinafter referred to as “*Purchaser*” which expression shall, where the context so requires, include Purchaser’s successors in title and permitted assigns).
 
-The Purchaser shall pay for the face value of this Note the principal amount of US$ *<INVESTMENT_AMOUNT_IN_FIGURES_GOES_HERE>* (*<INVESTMENT_AMOUNT_IN_WORS_GOES_HERE>* thousand United States dollars) (hereinafter referred to as the "Principal Amount") upon the terms and subject to the conditions set forth herein. The principal amount, Maturity Date, Default Conversion Price and Advance Payment are defined below. The Principal Amount shall be paid in bitcoin at an amount of bitcoin that is equivalent to the Principal Amount at the day of signing converted using the Coindesk bitcoin price. The Purchaser shall,  by way of electronic funds transfer to the Issuer at the Issuer’s bitcoin address set out below:
+The Purchaser shall pay for the face value of this Note the principal amount of US$ **<INVESTMENT_AMOUNT_IN_FIGURES_GOES_HERE>** (**<INVESTMENT_AMOUNT_IN_WORS_GOES_HERE>** thousand United States dollars) (hereinafter referred to as the "***Principal Amount***") upon the terms and subject to the conditions set forth herein. The principal amount, Maturity Date, Default Conversion Price and Advance Payment are defined below. The Principal Amount shall be paid in bitcoin at an amount of bitcoin that is equivalent to the Principal Amount at the day of signing converted using the Coindesk bitcoin price. The Purchaser shall,  by way of electronic funds transfer to the Issuer at the Issuer’s bitcoin address set out below:
 
 Issuer bitcoin address:
-*<YOUR_BITCOIN_ADDRESS_GOES_HERE>*
+**<YOUR_BITCOIN_ADDRESS_GOES_HERE>**
 
 The Note is intended to provide financing to the Company in anticipation of a Qualified Financing (as defined below).
 
-1.	Effective Date: The effective date of this convertible note is the date of signature of this agreement.
-2.	Interest: shall accrue on the outstanding Principal Amount, from the date hereof until this Note is converted or paid in full, at the rate of seven percent (7%) (the “Interest Rate”) per annum and shall be compounded annually on a 365 day basis. All accrued interest shall be due and payable in full upon maturity, conversion or prepayment of this Note, as provided herein. All cash payments received by the Purchaser in respect of this Note shall be applied first to accrued interest and thereafter to the repayment of the outstanding Principal Amount.
-3.	Maturity Date. If not sooner paid or converted according to the terms hereof, the outstanding Principal Amount plus all accrued and unpaid interest thereon shall be due and payable in full two years from the date of this note (the "Maturity Date"). Upon or at any time after the Maturity Date, in lieu of demanding payment, the Purchaser may, at its option and sole discretion elect to convert the outstanding Principal Amount plus accrued and unpaid interest under this Note into a number of shares of the Issuer's common stock (the "Common Stock"). Notwithstanding the value of the Issuer’s shares as at the Maturity Date, the Principal Amount and accrued interest shall convert to not less than 0.6% (zero point six percent) of common shares in the Issuer. In the event that the Principal Amount and accrued interest thereon is not paid in full on the Maturity Date and the Purchaser has not exercised its conversion right specified above, the Note will continue to accrue interest at the Default Rate (as defined below).
-4.	 Prepayment. The Issuer may prepay this Note in whole or in part without the prior consent of the Purchaser.
-5.	Qualified Financing. In the event of, and simultaneously with the initial closing of, a preferred stock or equity stock financing after the date hereof with at least US$ *<USD_AMT_IN_FIGURES_HERE>* of new invested capital (excluding any other outstanding debt securities (including convertible debt securities) issued by the Issuer) or a preferred stock financing in a lesser amount if approved in writing by the Majority Holders (in either case, a "Qualified Financing"), the outstanding Principal Amount and accrued interest under the Note shall automatically convert into shares of the same series of preferred stock as is issued in the Qualified Financing at a conversion price equal to the lesser of (a) the price obtained by multiplying (i) the price per share paid in the Qualified Financing by (ii) the applicable Conversion Percentage (as defined herein) The “Conversion Percentage” shall be set at eighty percent (*<MAX_CONVERSION_PERCENTAGE_IN_FIGURES_HERE>* %) on the date of issuance of this Note and shall decrease on the last day of each calendar month commencing the twenty first full calendar month this Note shall be outstanding in an amount equal to one percent (1%) per month, until reaching a Conversion Percentage of seventy percent (*<MIN_CONVERSION_PERCENTAGE_IN_FIGURES_HERE>*%), after which time there shall be no further reduction to the Conversion Percentage. “Majority Holders” means holders of Notes owning together two-thirds or more of the aggregate Principal Amount of all outstanding Notes. In conjunction with such conversion, the Holder shall become a party to and shall execute all applicable definitive agreements relating to such Qualified Financing (the "Qualified Financing Agreements").
-6.	Acquisition. Immediately prior to the closing of a merger, share exchange, consolidation, acquisition of all or substantially all of the assets or stock, reorganization or liquidation of the Issuer that results in the stockholders of the Issuer immediately prior to such transaction owning less than 50% of the voting capital stock of the Issuer (or its successor or parent corporation) immediately after the transaction or, in the case of a sale of assets or liquidation, the Company owning after the transaction less than substantially all of the assets owned by the Issuer prior to the transaction (other than an issuance of equity securities for the primary purpose of raising capital) or any other event that constitutes grounds for liquidation or winding up in terms of the Companies Act of Zimbabwe (Chapter 24:03) that occurs prior to the satisfaction in full by the  Issuer of all outstanding Principal amount and accrued interest under this Note (including through the conversion of such amounts into capital stock of the Issuer), the Purchaser may elect to either (i) convert all outstanding Principal Amount and accrued interest hereunder into shares of Issuer stock in accordance with the provisions of Section 2, or (ii) accelerate the Maturity Date to the date of closing of the Acquisition transaction and thereupon the Issuer shall be obligated to pay the Purchaser an amount equal to twice (two times) the outstanding Principal Amount in full satisfaction of its obligations hereunder. In conjunction with such conversion in connection with an Acquisition, the Purchaser shall execute all documentation required to be executed by other stockholders of Issuer in connection with the Acquisition (the "Acquisition Agreements"), including without limitation escrow, indemnification and other similar agreements.
-7.	Effect of Conversion Upon conversion of this Note into shares of the Issuer's capital stock in accordance with the terms hereof, and, if and as applicable, upon receipt by the Issuer of signature pages to the Qualified Financing Agreements or the Acquisition Agreements executed by the Purchaser, the Issuer shall promptly issue and deliver to the Purchaser (a) a certificate or certificates for the shares issuable upon such conversion of this Note ("Conversion Shares") and (b) a capitalization table that reflects the Issuer’s Fully-Diluted Number of Shares as of the Conversion Time (as defined below) certified as accurate and complete by a senior officer of the Issuer. Such conversion shall be deemed to have been made, in the case of conversion pursuant to Section 2, as of the close of business on the Maturity Date or such earlier date as mutually agreeable to the Issuer and Purchaser; in the case of a Qualified Financing, simultaneously with the completion of the initial closing of the Qualified Financing; and in the case of an Acquisition, immediately prior to the closing of such Acquisition (in each case, the "Conversion Time"). The Purchaser shall be treated for all purposes as the record holder of such Conversion Shares as of the Conversion Time. No fractional Conversion Shares shall be issued in connection with any conversion of this Note, and any fractional shall be rounded up to the nearest whole share in lieu of any such fraction. The issuance of Conversion Shares to the Purchaser upon conversion of this Note in accordance with its terms shall constitute satisfaction in full of the obligations of the Issuer under this Note.
-8.	Event of Default. If the Purchaser
+1.	*Effective Date*: The effective date of this convertible note is the date of signature of this agreement.
+2.	*Interest*: shall accrue on the outstanding Principal Amount, from the date hereof until this Note is converted or paid in full, at the rate of seven percent (7%) (the “Interest Rate”) per annum and shall be compounded annually on a 365 day basis. All accrued interest shall be due and payable in full upon maturity, conversion or prepayment of this Note, as provided herein. All cash payments received by the Purchaser in respect of this Note shall be applied first to accrued interest and thereafter to the repayment of the outstanding Principal Amount.
+3.	*Maturity Date*. If not sooner paid or converted according to the terms hereof, the outstanding Principal Amount plus all accrued and unpaid interest thereon shall be due and payable in full two years from the date of this note (the "Maturity Date"). Upon or at any time after the Maturity Date, in lieu of demanding payment, the Purchaser may, at its option and sole discretion elect to convert the outstanding Principal Amount plus accrued and unpaid interest under this Note into a number of shares of the Issuer's common stock (the "***Common Stock***"). Notwithstanding the value of the Issuer’s shares as at the Maturity Date, the Principal Amount and accrued interest shall convert to not less than 0.6% (zero point six percent) of common shares in the Issuer. In the event that the Principal Amount and accrued interest thereon is not paid in full on the Maturity Date and the Purchaser has not exercised its conversion right specified above, the Note will continue to accrue interest at the Default Rate (as defined below).
+4.	 *Prepayment*. The Issuer may prepay this Note in whole or in part without the prior consent of the Purchaser.
+5.	*Qualified Financing*. In the event of, and simultaneously with the initial closing of, a preferred stock or equity stock financing after the date hereof with at least US$ *<USD_AMT_IN_FIGURES_HERE>* of new invested capital (excluding any other outstanding debt securities (including convertible debt securities) issued by the Issuer) or a preferred stock financing in a lesser amount if approved in writing by the Majority Holders (in either case, a "***Qualified Financing***"), the outstanding Principal Amount and accrued interest under the Note shall automatically convert into shares of the same series of preferred stock as is issued in the Qualified Financing at a conversion price equal to the lesser of (a) the price obtained by multiplying (i) the price per share paid in the Qualified Financing by (ii) the applicable Conversion Percentage (as defined herein) The “***Conversion Percentage***” shall be set at eighty percent (*<MAX_CONVERSION_PERCENTAGE_IN_FIGURES_HERE>* %) on the date of issuance of this Note and shall decrease on the last day of each calendar month commencing the twenty first full calendar month this Note shall be outstanding in an amount equal to one percent (1%) per month, until reaching a Conversion Percentage of seventy percent (*<MIN_CONVERSION_PERCENTAGE_IN_FIGURES_HERE>*%), after which time there shall be no further reduction to the Conversion Percentage. “***Majority Holders***” means holders of Notes owning together two-thirds or more of the aggregate Principal Amount of all outstanding Notes. In conjunction with such conversion, the Holder shall become a party to and shall execute all applicable definitive agreements relating to such Qualified Financing (the "***Qualified Financing Agreements***").
+6.	*Acquisition*. Immediately prior to the closing of a merger, share exchange, consolidation, acquisition of all or substantially all of the assets or stock, reorganization or liquidation of the Issuer that results in the stockholders of the Issuer immediately prior to such transaction owning less than 50% of the voting capital stock of the Issuer (or its successor or parent corporation) immediately after the transaction or, in the case of a sale of assets or liquidation, the Company owning after the transaction less than substantially all of the assets owned by the Issuer prior to the transaction (other than an issuance of equity securities for the primary purpose of raising capital) or any other event that constitutes grounds for liquidation or winding up in terms of the Companies Act of Zimbabwe (Chapter 24:03) that occurs prior to the satisfaction in full by the  Issuer of all outstanding Principal amount and accrued interest under this Note (including through the conversion of such amounts into capital stock of the Issuer), the Purchaser may elect to either (i) convert all outstanding Principal Amount and accrued interest hereunder into shares of Issuer stock in accordance with the provisions of Section 2, or (ii) accelerate the Maturity Date to the date of closing of the Acquisition transaction and thereupon the Issuer shall be obligated to pay the Purchaser an amount equal to twice (two times) the outstanding Principal Amount in full satisfaction of its obligations hereunder. In conjunction with such conversion in connection with an Acquisition, the Purchaser shall execute all documentation required to be executed by other stockholders of Issuer in connection with the Acquisition (the "Acquisition Agreements"), including without limitation escrow, indemnification and other similar agreements.
+7.	*Effect of Conversion* Upon conversion of this Note into shares of the Issuer's capital stock in accordance with the terms hereof, and, if and as applicable, upon receipt by the Issuer of signature pages to the Qualified Financing Agreements or the Acquisition Agreements executed by the Purchaser, the Issuer shall promptly issue and deliver to the Purchaser (a) a certificate or certificates for the shares issuable upon such conversion of this Note ("***Conversion Shares***") and (b) a capitalization table that reflects the Issuer’s Fully-Diluted Number of Shares as of the Conversion Time (as defined below) certified as accurate and complete by a senior officer of the Issuer. Such conversion shall be deemed to have been made, in the case of conversion pursuant to Section 2, as of the close of business on the Maturity Date or such earlier date as mutually agreeable to the Issuer and Purchaser; in the case of a Qualified Financing, simultaneously with the completion of the initial closing of the Qualified Financing; and in the case of an Acquisition, immediately prior to the closing of such Acquisition (in each case, the "***Conversion Time***"). The Purchaser shall be treated for all purposes as the record holder of such Conversion Shares as of the Conversion Time. No fractional Conversion Shares shall be issued in connection with any conversion of this Note, and any fractional shall be rounded up to the nearest whole share in lieu of any such fraction. The issuance of Conversion Shares to the Purchaser upon conversion of this Note in accordance with its terms shall constitute satisfaction in full of the obligations of the Issuer under this Note.
+8.	*Event of Default*. If the Purchaser
 
-  1. fails to pay when due any principal or interest payment on the due date hereunder, and such payment shall not have been made within five (5) days of the Issuer's receipt of the Purchaser's written notice to the Issuer of such failure to pay;
-  2. materially breaches any other covenant contained in this Note and such failure continues for 15 days after the Issuer receives written notice of such material breach from the Purchaser;
-  3. voluntarily files for liquidation protection or makes a general assignment for the benefit of creditors; or
-  4. is the subject of an involuntary bankruptcy petition and such petition is not dismissed within 60 days; Then in any such case the Purchaser may, upon written notice to the Company, declare the Note in default and immediately due and payable in full. From that date forward, this Note shall bear interest at a rate of the lower of eighteen percent (18%) per annum or the highest rate allowed by applicable law (the “Default Rate”), until paid in full or converted.
+  a. fails to pay when due any principal or interest payment on the due date hereunder, and such payment shall not have been made within five (5) days of the Issuer's receipt of the Purchaser's written notice to the Issuer of such failure to pay;
+  b. materially breaches any other covenant contained in this Note and such failure continues for 15 days after the Issuer receives written notice of such material breach from the Purchaser;
+  c. voluntarily files for liquidation protection or makes a general assignment for the benefit of creditors; or
+  d. is the subject of an involuntary bankruptcy petition and such petition is not dismissed within 60 days; Then in any such case the Purchaser may, upon written notice to the Company, declare the Note in default and immediately due and payable in full. From that date forward, this Note shall bear interest at a rate of the lower of eighteen percent (18%) per annum or the highest rate allowed by applicable law (the “*Default Rate*”), until paid in full or converted.
 
-9.	Representations and Warranties by the Issuer. The Issuer hereby represents and warrants to the Purchaser as follows and in so saying each of the Warranties shall be construed as a separate and independent representation and warranty and (save where expressly provided to the contrary) shall not be governed, limited or restricted by reference to or inference from any other terms of this Agreement or any other Warranty.
+9.	*Representations and Warranties by the Issuer*. The Issuer hereby represents and warrants to the Purchaser as follows and in so saying each of the Warranties shall be construed as a separate and independent representation and warranty and (save where expressly provided to the contrary) shall not be governed, limited or restricted by reference to or inference from any other terms of this Agreement or any other Warranty.
 
-  1. The rights and remedies of the Purchaser, including in respect of any breach of this Agreement or any misrepresentation, shall not be affected by any enquiry or investigation made by or on behalf of the Purchaser into the affairs of the Company either before or after the date of this Agreement, and it shall not be a defence to any claim under the Warranties that the Purchaser ought to have known about the matter which is the subject of the claim by reason of any such investigation or enquiry.
-  2. The warranties shall be repeated on execution of this agreement and shall persist till maturity.
-  3. Warranties:
-    1. The Issuer is a corporation duly incorporated and in good standing under the laws of Zimbabwe and has complied with the provisions of all legislation and regulations having the force of law applicable to it and all documents required to be filed with or delivered to any authority by the company since incorporation have been properly and correctly filed.;
-    2. Issuer is not in violation of or in default under its founding documents or any material judgment, order, writ, decree, statute, rule, or regulation that is applicable to the Issuer or any material mortgage, indenture, agreement, instrument, or contract to which the Issuer is a party and no order has been made and no resolution has been passed for the winding up of the company or for provisional liquidator to be appointed in respect of the company and no petition has been presented and no meeting convened for the purposes of winding up the company;
-    3. All corporate action on the part of the Issuer, its directors and stockholders necessary for the authorization, sale, issuance and delivery of this Note has been taken and accordingly the Issuer can execute this agreement;
-    4. The Issuer  will take all corporate action necessary to ensure the Conversion Shares issued upon conversion of this Note will, upon issuance, be duly authorized, validly issued and fully paid in accordance with the articles/certificate of incorporation of the Issuer;
-    5. This Note, when executed and delivered by the Issuer, shall constitute a valid and legally binding obligation of the Issuer, enforceable against the Issuer in accordance with its terms, except as limited by applicable liquidation, winding up, insolvency, reorganization, moratorium, fraudulent conveyance, and other laws of general application affecting enforcement of creditors' rights generally, and as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies; provided that in the event that the Issuer ceases to exist by operation of law and its shareholders incorporate or form another entity in another nation and as the majority shareholders in the new foreign entity and subject to the laws of the land wherein incorporation would have occurred they commit to adopt the terms set herein as part of the debts and/or obligations to be carried by the said new entity.
-    6. The execution and delivery of this Note does not violate any material judgment, order, decree, statute, rule, or regulation applicable to the company or violate any individual’s mortgage, indenture, agreement, instrument, or contract to which the company is a party and in any event the company is not a plaintiff or defendant ; and
-    7. The Issuer has no indebtedness for borrowed money
-    8. All of the shares in the company have been duly issued and are fully paid up and are not subject to any encumbrance and were not issued in violation of any or contractual pre-emptive rights of any persons. The Issuer also undertakes to file as soon as is reasonably practical after receiving the Principal Amount, with the Registrar of Companies a revised equity vesting schedule reflecting  its current shareholding structure.
-    9. The issuer is not a party to any litigation, arbitration or administrative proceedings which are in progress nor have any such proceedings been threatened by or against the Company,
-    10. There is no agreement or commitment (including without limitation options) outstanding which calls for the allotment, issue or transfer of shares (including the shares) or debentures of the company,
-    11. The company does not own any subsidiary company nor does it hold shares in any other company,
-    12. The company is not in breach of any applicable environmental laws,
-    13.	The company legally and beneficially owns all of the intellectual property and any other intellectual property (whether registered or not ) utilised in its operations and there is no claim , breach or threatened breach in respect of any such intellectual property, and
-    14. The Issuer shall upon conversion amend its Articles of Association in line with the template provided by the Purchaser. A copy of the existing Articles of Association is attached hereto.
-10.	Representations and Warranties by the Purchaser. By acceptance of this Note, the Purchaser represents and warrants to the Issuer the following
-  1. As of the time of issuance of this Note as follows:  this Note and any Conversion Shares issued upon the conversion hereof (collectively, the "Securities") will be acquired for the Purchaser's own account for investment and not with a view to, or for resale in connection with, any distribution or public offering,
-  2. It will seek to comply with any investment policies, rules, laws or regulations of Zimbabwe applicable where necessary, to a foreign investor such as Zimbabwe Investment Authority Fees as well as being mindful of the provisions of the Indigenization and Economic Empowerment Act and Regulations or such similar laws and regulations.
-11.	Information Rights. So long as this Note is outstanding, the Issuer agrees to deliver to the Purchaser any information provided to stockholders of the Issuer in their capacity as such and, upon request of Purchaser, such other information that a stockholder of the Issuer would be entitled to receive by law or under the charter documents of the Issuer. So long as this Note is outstanding, the Issuer will deliver to Purchaser
-  1. Annual unaudited financial statements within sixty (60) days following year-end and annual audited statements, if any, within ten (10) days of completion; and
-  1.	quarterly unaudited financial statements within thirty (30) days following quarter-end.
-12.	Notices. All notices provided for in this Note shall be in writing and deemed to be duly given upon
-  1. Personal delivery,
-  2. By sending it in a pre-paid envelope by registered post to the party concerned at its address shown in this Agreement,
-  3. To the party concerned at their email address below or to such other address as the party concerned may have notified to the others and any such notice shall be deemed served in the case of personal service at the time of delivery to the party concerned, in the case of email two (2) days (inclusive of the date of sending) provided that the party has received a delivery receipt and in any other case seven (7) days (inclusive of the date of posting) after the date on which it is put in the post and in proving such service it shall be sufficient to prove that the notice was properly addressed and posted by registered post.
+  a. The rights and remedies of the Purchaser, including in respect of any breach of this Agreement or any misrepresentation, shall not be affected by any enquiry or investigation made by or on behalf of the Purchaser into the affairs of the Company either before or after the date of this Agreement, and it shall not be a defence to any claim under the Warranties that the Purchaser ought to have known about the matter which is the subject of the claim by reason of any such investigation or enquiry.
+  b. The warranties shall be repeated on execution of this agreement and shall persist till maturity.
+  c. Warranties:
+    i. The Issuer is a corporation duly incorporated and in good standing under the laws of Zimbabwe and has complied with the provisions of all legislation and regulations having the force of law applicable to it and all documents required to be filed with or delivered to any authority by the company since incorporation have been properly and correctly filed.;
+    ii. Issuer is not in violation of or in default under its founding documents or any material judgment, order, writ, decree, statute, rule, or regulation that is applicable to the Issuer or any material mortgage, indenture, agreement, instrument, or contract to which the Issuer is a party and no order has been made and no resolution has been passed for the winding up of the company or for provisional liquidator to be appointed in respect of the company and no petition has been presented and no meeting convened for the purposes of winding up the company;
+    iii. All corporate action on the part of the Issuer, its directors and stockholders necessary for the authorization, sale, issuance and delivery of this Note has been taken and accordingly the Issuer can execute this agreement;
+    iv. The Issuer  will take all corporate action necessary to ensure the Conversion Shares issued upon conversion of this Note will, upon issuance, be duly authorized, validly issued and fully paid in accordance with the articles/certificate of incorporation of the Issuer;
+    v. This Note, when executed and delivered by the Issuer, shall constitute a valid and legally binding obligation of the Issuer, enforceable against the Issuer in accordance with its terms, except as limited by applicable liquidation, winding up, insolvency, reorganization, moratorium, fraudulent conveyance, and other laws of general application affecting enforcement of creditors' rights generally, and as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies; provided that in the event that the Issuer ceases to exist by operation of law and its shareholders incorporate or form another entity in another nation and as the majority shareholders in the new foreign entity and subject to the laws of the land wherein incorporation would have occurred they commit to adopt the terms set herein as part of the debts and/or obligations to be carried by the said new entity.
+    vi. The execution and delivery of this Note does not violate any material judgment, order, decree, statute, rule, or regulation applicable to the company or violate any individual’s mortgage, indenture, agreement, instrument, or contract to which the company is a party and in any event the company is not a plaintiff or defendant ; and
+    vii. The Issuer has no indebtedness for borrowed money
+    viii. All of the shares in the company have been duly issued and are fully paid up and are not subject to any encumbrance and were not issued in violation of any or contractual pre-emptive rights of any persons. The Issuer also undertakes to file as soon as is reasonably practical after receiving the Principal Amount, with the Registrar of Companies a revised equity vesting schedule reflecting  its current shareholding structure.
+    ix. The issuer is not a party to any litigation, arbitration or administrative proceedings which are in progress nor have any such proceedings been threatened by or against the Company,
+    x. There is no agreement or commitment (including without limitation options) outstanding which calls for the allotment, issue or transfer of shares (including the shares) or debentures of the company,
+    xi. The company does not own any subsidiary company nor does it hold shares in any other company,
+    xii. The company is not in breach of any applicable environmental laws,
+    xiii.	The company legally and beneficially owns all of the intellectual property and any other intellectual property (whether registered or not ) utilised in its operations and there is no claim , breach or threatened breach in respect of any such intellectual property, and
+    xiv. The Issuer shall upon conversion amend its Articles of Association in line with the template provided by the Purchaser. A copy of the existing Articles of Association is attached hereto.
+10.	*Representations and Warranties by the Purchaser*. By acceptance of this Note, the Purchaser represents and warrants to the Issuer the following
+  a. As of the time of issuance of this Note as follows:  this Note and any Conversion Shares issued upon the conversion hereof (collectively, the "Securities") will be acquired for the Purchaser's own account for investment and not with a view to, or for resale in connection with, any distribution or public offering,
+  b. It will seek to comply with any investment policies, rules, laws or regulations of Zimbabwe applicable where necessary, to a foreign investor such as Zimbabwe Investment Authority Fees as well as being mindful of the provisions of the Indigenization and Economic Empowerment Act and Regulations or such similar laws and regulations.
+11.	*Board Composition/Information Rights*. So long as this Note is outstanding, the Issuer agrees to deliver to the Purchaser any information provided to stockholders of the Issuer in their capacity as such and, upon request of Purchaser, such other information that a stockholder of the Issuer would be entitled to receive by law or under the charter documents of the Issuer. So long as this Note is outstanding, the Issuer will deliver to Purchaser
+  a. Annual unaudited financial statements within sixty (60) days following year-end and annual audited statements, if any, within ten (10) days of completion; and
+  b.	quarterly unaudited financial statements within thirty (30) days following quarter-end.
+12.	*Notices*. All notices provided for in this Note shall be in writing and deemed to be duly given upon
+  a. Personal delivery,
+  b. By sending it in a pre-paid envelope by registered post to the party concerned at its address shown in this Agreement,
+  c. To the party concerned at their email address below or to such other address as the party concerned may have notified to the others and any such notice shall be deemed served in the case of personal service at the time of delivery to the party concerned, in the case of email two (2) days (inclusive of the date of sending) provided that the party has received a delivery receipt and in any other case seven (7) days (inclusive of the date of posting) after the date on which it is put in the post and in proving such service it shall be sufficient to prove that the notice was properly addressed and posted by registered post.
 
-11.2 Issuer Details:
+*11.2 Issuer Details:*
+
 11.2.1 Startup Name: ____________________
+
 11.2.2 Startup Company Number: ____________________
+
 11.2.3 Startup Address: ________________________________________
+
 11.2.4 Founder 1 Name: ____________________
+
 11.2.5 Founder 1 Nationality: ____________________
+
 11.2.6 Founder 1 Passport Number: ____________________
+
 11.2.7 Founder 1 Address: ____________________
+
 11.2.8 Founder 2 Name: ____________________
+
 11.2.9 Founder 2 Nationality: ____________________
+
 11.2.10 Founder 2 Passport Number: ____________________
+
 11.2.11 Founder 2 Address: ____________________
+
 11.2.12 Startup Total Authorised Share Capital: ____________________
+
 11.2.13 Startup Number of Authorised Shares: ____________________
+
 11.2.14 Startup value of each Authorised Share: ____________________
+
 11.2.16 Startup Total Issued Share Capital: ____________________
+
 11.2.17 Startup Number of Issued Shares: ____________________
-11.2.18 Startup value of each Issued Share: ____________________
+
+11.2.18 Startup value of each Issued Share: ___________________
+
 11.2.19 Founder 1, Shares: ____________________
+
 11.2.20 Founder 2, Shares: ____________________
+
 11.2.19 Founder 1, % of shares (% ownership): ____________________
+
 11.2.20 Founder 2, % of shares (% ownership): ____________________
+
 11.2.19 Definition of the Startup’s Business: ____________________
+
 11.2.22 Startup Company Email Address: ____________________
+
 11.2.23 Founder 1 Email Address: ____________________
+
 11.2.24 Founder 2 Email Address: ____________________
 
 
-11.3 Purchaser Email Address: ____________________
+*11.3 Purchaser Email Address:*
+
 11.3.1 Purchaser Email Address: ____________________
 
-13.	Governing Law and Dispute Resolution. This Note, and any disputes arising under this Note, will be governed by and construed in accordance with the laws of Zimbabwe, without giving effect to any conflict of laws principle to the contrary. The Issuer and the Purchaser agree that in the event of a dispute arising out of this Note the dispute shall be resolved by Arbitration.
-  1. Each party shall use its best efforts to settle amicably any dispute claim controversy or disagreement arising out of or in connection with this Agreement or in its validity, interpretation or termination.
-  2.	Save as herein otherwise specifically provided, any dispute claim controversy or disagreement between the parties as to matters arising under or pursuant to this Agreement as aforesaid which cannot be settled amicably within fifteen (15) days after receipt by one party of the other party's request for such amicable settlement may be submitted by either party to arbitration in accordance with the provisions of clauses 12 (c) to 12 (i)(both inclusive).
-  3. If the parties so agree, the dispute shall be referred to a single arbitrator or if they are unable to agree upon the person to be appointed as arbitrator within twenty (20) days from the date of the notice requesting arbitration, the dispute shall be referred to The Chairman of the Commercial Arbitration Centre of Zimbabwe who shall within fifteen (15) days appoint a Sole Arbitrator and his choice shall be binding on both parties. The venue and seat of the arbitration shall be Harare.
-  4. Except as stated herein, arbitration proceedings shall be conducted in accordance with the rules or procedures for arbitration as provided for by the laws of Zimbabwe.
-  5. If for any reason an arbitrator is unable to perform his function, a substitute shall be appointed in the same manner as the original arbitrator.
-  6. The decision of the arbitrator, shall be final and binding on the parties.
-  7. The arbitrator fees and expenses shall be borne by the parties in equal shares.
-  8.	Notwithstanding the above provisions of this Section 12, a party is entitled to seek preliminary injunctive relief or interim or conservatory measures from any court of competent jurisdiction pending the final decision or award of the arbitrators.
-  9. The provisions contained in this clause 12 shall survive the termination, expiration or invalidity of this Agreement
-14.	Assignment. The rights and obligations of the Issuer and the Purchaser shall be binding upon and shall inure to the benefit of their successors, assigns and transferees. Purchaser may not assign or otherwise transfer this Note without the prior written consent of the Holder.
-15.	Waiver and Amendment. The provisions of this Note may be amended or waived only upon the written consent of the issuer and the Purchaser and such amendment or waiver will only be of force and effect when reduced into writing and signed to by the parties hereto.
-16.	Collection Costs. The Issuer agrees to pay all costs and expenses, including without limitation reasonable attorneys' fees, incurred by the Purchaser in any action brought to enforce the terms of this Note and/or to collect this Note, and in any appeal thereof.
-17.	Headings. Headings used in this Note have been included for convenience and ease of reference only, and will not in any manner influence the construction or interpretation of any provision of this Note.
-18.	Only Issuer Liable. In no event shall any stockholder, officer, director or employee of the Issuer be liable for any amounts due or payable pursuant to this Note.
-19.	Expenses. The parties will each meet fifty percentum (50%) of the legal charges raised as part of the negotiation and execution of this Note.
-20.	Counterparts. The Note may be executed in two or more counterparts, each of which will be deemed an original, but all of which together will constitute one and the same instrument
+13.	*Governing Law and Dispute Resolution*. This Note, and any disputes arising under this Note, will be governed by and construed in accordance with the laws of Zimbabwe, without giving effect to any conflict of laws principle to the contrary. The Issuer and the Purchaser agree that in the event of a dispute arising out of this Note the dispute shall be resolved by Arbitration.
+  a. Each party shall use its best efforts to settle amicably any dispute claim controversy or disagreement arising out of or in connection with this Agreement or in its validity, interpretation or termination.
+  b.	Save as herein otherwise specifically provided, any dispute claim controversy or disagreement between the parties as to matters arising under or pursuant to this Agreement as aforesaid which cannot be settled amicably within fifteen (15) days after receipt by one party of the other party's request for such amicable settlement may be submitted by either party to arbitration in accordance with the provisions of clauses 12 (c) to 12 (i)(both inclusive).
+  c. If the parties so agree, the dispute shall be referred to a single arbitrator or if they are unable to agree upon the person to be appointed as arbitrator within twenty (20) days from the date of the notice requesting arbitration, the dispute shall be referred to The Chairman of the Commercial Arbitration Centre of Zimbabwe who shall within fifteen (15) days appoint a Sole Arbitrator and his choice shall be binding on both parties. The venue and seat of the arbitration shall be Harare.
+  d. Except as stated herein, arbitration proceedings shall be conducted in accordance with the rules or procedures for arbitration as provided for by the laws of Zimbabwe.
+  e. If for any reason an arbitrator is unable to perform his function, a substitute shall be appointed in the same manner as the original arbitrator.
+  f. The decision of the arbitrator, shall be final and binding on the parties.
+  g. The arbitrator fees and expenses shall be borne by the parties in equal shares.
+  h.	Notwithstanding the above provisions of this Section 12, a party is entitled to seek preliminary injunctive relief or interim or conservatory measures from any court of competent jurisdiction pending the final decision or award of the arbitrators.
+  i. The provisions contained in this clause 12 shall survive the termination, expiration or invalidity of this Agreement
+14.	*Assignment*. The rights and obligations of the Issuer and the Purchaser shall be binding upon and shall inure to the benefit of their successors, assigns and transferees. Purchaser may not assign or otherwise transfer this Note without the prior written consent of the Holder.
+15.	*Waiver and Amendment*. The provisions of this Note may be amended or waived only upon the written consent of the issuer and the Purchaser and such amendment or waiver will only be of force and effect when reduced into writing and signed to by the parties hereto.
+16.	*Collection Costs*. The Issuer agrees to pay all costs and expenses, including without limitation reasonable attorneys' fees, incurred by the Purchaser in any action brought to enforce the terms of this Note and/or to collect this Note, and in any appeal thereof.
+17.	*Headings*. Headings used in this Note have been included for convenience and ease of reference only, and will not in any manner influence the construction or interpretation of any provision of this Note.
+18.	*Only Issuer Liable*. In no event shall any stockholder, officer, director or employee of the Issuer be liable for any amounts due or payable pursuant to this Note.
+19.	*Expenses*. The parties will each meet fifty percentum (50%) of the legal charges raised as part of the negotiation and execution of this Note.
+20.	*Counterparts*. The Note may be executed in two or more counterparts, each of which will be deemed an original, but all of which together will constitute one and the same instrument
 21.	If any provision of this Agreement shall to any extent be held, in whole or in part, to be illegal or unenforceable under any enactment or rule of law, that term or provision or part shall to that extent be deemed not to form part of this Agreement and the enforceability of the remainder of this Agreement shall not be affected thereby.
-  1. No failure or delay to exercise any power, right or remedy by any party shall operate as a waiver of that right, power or remedy and no single or partial exercise by any party of any right, power or remedy shall preclude its further exercise or the exercise of any other right, power or remedy.
+  a. No failure or delay to exercise any power, right or remedy by any party shall operate as a waiver of that right, power or remedy and no single or partial exercise by any party of any right, power or remedy shall preclude its further exercise or the exercise of any other right, power or remedy.
 
 The Issuer has caused this Convertible Promissory Note to be signed by its duly authorized officer and dated the day and year first above written.
 
 for: *<YOUR_COMPANY_NAME_HERE>*:
 
 Date:			________________________________________
+
 Founder 1 Name:	*<YOUR_NAME_HERE>*
+
 Founder 1 Title:	Founder, *<YOUR_COMPANY_NAME_HERE>*
 
 Founder 1 Signature:	________________________________________
 
 Date:			________________________________________
+
 Founder 2 Name:	*<YOUR_COFOUNDER_NAME_HERE>*
+
 Founder 2 Title:	FOUNDER, *<YOUR_COMPANY_NAME_HERE>*
+
 Founder 2 Signature:	________________________________________
 
 
@@ -127,5 +158,11 @@ for: Purchaser:
 Date:		 _______________________________________
 
 Name		 <INVESTOR_NAME_GOES_HERE>
+
 Title:		Angel Investor
+
 Signature: 	________________________________________
+
+## Copyright
+
+This document is licensed under a GNU General Public License v3.0
