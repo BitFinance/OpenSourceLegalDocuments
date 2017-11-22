@@ -1,0 +1,204 @@
+# Golix Terms & Conditions
+
+.Document Control
+|===
+| **Last Review Date** |  **Review Undertaken By** |  **Next Review Date** |  **Comments**
+| 2017-11-22 20:18 CAT | @tkembo | - | Document created
+| - | - | - | -
+|===
+
+.Document Approvals
+|===
+| **Name** | **Title** | **Date of Issue** | **Version Number**
+| - | - | - | -
+| - | - | - | -
+|===
+
+By accessing or using the Golix website located at https://golix.com (the “Site”) and any services made available through the Site (collectively, the “Services”), you (“User”) agree to be bound by these Terms of Use (“Terms”). The Services are owned and controlled by Bitfinance (Private) Limited, ("Golix"), a company duly incorporated in terms of the laws of Zimbabwe, and the terms “we,” “us,” and “our” refer to Bitfinance (Private) Limited. These Terms & Conditions affect your legal rights and obligations. If you do not agree to be bound by these Terms, do not access or use the Services.
+Bitfinance reserves the right to change or modify the terms and conditions contained in these Terms, including but not limited to any policy or guideline of the Site, at any time and at its sole discretion. We will provide notice of these changes by posting the revised Terms to the Site and changing the "Last Review Date" date at the top of the Terms, or by emailing users at their provided email addresses, or by any other means as determined by Bitfinance. The decision of which notification chosen will be left to Bitfinance's sole discretion. Using a particular form of notice in some instances does not obligate us to use the same form in other instances. Any changes or modifications will be effective immediately upon updating this document or at the instant that Bitfinance transmits the information to the users (e.g. via email). These changes will apply at that instant to all then current and subsequent uses of the Site. You waive any right you may have to receive specific notice of such changes or modifications. Your continued use of our Site acts as acceptance of such changes or modifications. If you do not agree to the Terms in effect when you access or use the Site, you must stop using the Site.
+
+## 1. Preamble
+Bitfinance provides an online platform (Exchange) that allows users to trade in digital currencies such as bitcoin, Bitcoin Cash, Dash, Litecoin and Bitcoin Gold.
+
+## 2. Eligibility
+
+By accessing or using the Site, you represent and warrant that you are at least 18 years old and have not previously been suspended or removed from the Site. You also represent and warrant that you are a resident of Zimbabwe. You represent and warrant that you are not:
+
+a. Identified as a "Specially Designated National", or
+b. Placed on the terrorist watch list. You further represent and warrant that you will not use the Site if the laws of your country prohibit you from doing so in accordance with these Terms.
+c. Finally, you represent and warrant that you will not be using this site for any illegal activity, including but not limited to money laundering and the financing of terrorism.
+
+## 3. Signing Up & Accounts
+
+In order to access and use the Services, you must create an account with golix.com (an “Account”). You agree to:
+
+a. Provide accurate, current and complete information when creating the account;
+b. Maintain and promptly update your Account information to keep it accurate, complete, and current;
+c. Maintain the security and confidentiality of your login credentials and restrict access to your Account and your computer; d. Promptly notify Golix if you discover or otherwise suspect any security breaches related to the Site; and
+e. Take responsibility for all activities that occur under your Account and accept all risks of unauthorised access.
+
+## 4. Privacy Policy
+
+Your privacy is important to us. We only share your information with third parties as outlined in out in our Privacy Policy Statement or as required to do so by law enforcement, court order, or in compliance with legal reporting obligations.
+
+## 5. Confidentiality of the transmission of information over the internet
+
+The transmission of data or information (including communications by e-mail) over the Internet or other publicly accessible networks is not one hundred percent secure, and is subject to possible loss, interception, or alteration while in transit. Accordingly, Golix does not assume any liability, without limitation, for any damage you may experience or costs you may incur as a result of any transmissions over the Internet or other publicly accessible networks, including but not limited to transmissions involving the Platform or e-mail with Golix containing your personal information. While Golix will take commercially reasonable efforts to safeguard the privacy of the information you provide to it and will treat such information in accordance with its Privacy Policy, in no event will the information you provide to Golix be deemed to be confidential, create any fiduciary obligations for Golix, or result in any liability for Golix in the event that such information is negligently released by it or accessed by third parties without Golix's consent.
+
+## 6. Cautionary Advice
+
+We are an execution-only service and do not advise on the merits of any particular transactions or their taxation consequences. In entering into any transaction on the Exchange, you represent that you have been, are, and will be solely responsible for making your own independent appraisal and investigations into the risks of the transaction. You represent that you have sufficient knowledge, market sophistication, professional advice and experience to make your own evaluation of the merits and risks of any transaction. We give you no warranty as to the suitability of the cryptocurrency traded under these Terms & Conditions and assume no fiduciary duty in our relations with you.
+
+Prior to transacting on our exchange we urge you to take note of the following facts:
+
+a. Digital currencies such as bitcoin are not legal tender, are not backed by any government, and accounts and value balances are not subject to Reserve Bank Depositors or Investor protections;
+b. Legislative and regulatory changes or actions at the State,  or international level may adversely affect the use, transfer, exchange, and value of digital currencies;
+c. Transactions in digital currencies may be irreversible, and, accordingly, losses due to fraudulent or accidental transactions may not be recoverable;
+d. Some digital currency transactions shall be deemed to be made when recorded on a public ledger, which is not necessarily the date or time that you initiated the transaction;
+e. The value of digital currencies may be derived from the continued willingness of market participants to exchange Fiat Currency for digital currency, which may result in the potential for permanent and total loss of value of a particular Cryptocurrencies should the market for that Cryptocurrency disappear;
+f. There is no assurance that a Person who accepts a digital currency as payment today will continue to do so in the future;
+g. The volatility and unpredictability of the price of digital currencies relative to Fiat Currency may result in significant loss over a short period of time;
+h. The nature of Digital Currencies may lead to an increased risk of fraud or cyber attack.
+
+If at any point Golix or its representatives do provide trading recommendations, market commentary, or any other information, the act of doing so is incidental to your relationship with us and imposes no obligation of truth or due diligence on behalf of Golix or its representatives. We give no representation, warranty, or guarantee as to the accuracy or completeness of any such information or as to the tax consequences of any transaction.
+
+## 7. Limited License
+
+Golix grants you a limited, nonexclusive, nontransferable license, subject to these Terms, to access and use the Services, and the content, materials, information and functionality available in connection therewith (collectively, the “Content”) solely for information, transactional, or other approved purposes as permitted by Golix from time to time. Any other use of the Services or Content is expressly prohibited. All other rights in the Platform or Content are reserved by us and our licensors. You will not otherwise copy, transmit, distribute, sell, resell, license, de-compile, reverse engineer, disassemble, modify, publish, participate in the transfer or sale of, create derivative works from, perform, display, incorporate into another website, or in any other way exploit any of the Content or any other part of the Services or any derivative works thereof, in whole or in part for commercial or non-commercial purposes. Without limiting the foregoing, you will not frame or display the Site or Content (or any portion thereof) as part of any other web site or any other work of authorship without the prior written permission of Golix. If you violate any portion of these Terms, your permission to access and use the Platform may be terminated pursuant to these Terms. In addition, we reserve the right to all remedies available at law and in equity for any such violation. “golix.com”, “Golix”, and all logos related to the Services or displayed on the Site are either trademarks or registered marks of Golix or its licensor. You may not copy, imitate or use them without our prior written consent.
+
+## 8. Copyright Infringement
+
+If you believe anything on the Site infringes upon any copyright, which you own or control, you may file a notification of such infringement with our Designated Agent as set forth below:
+
+    Donsa-Nkomo & Mutangi Legal Practitioners
+    9 Knight Bruce Road,
+    Milton Park
+    Harare, Zimbabwe
+
+You should note that if you knowingly misrepresent in your notification that the material or activity is infringing, you will be liable for any damages, including costs and attorneys' fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing.
+
+## 9. 51% and other Digital Currency Attacks
+
+Golix makes every commercially reasonable attempt to help prevent and mitigate Digital Currency attacks. If Golix is able to confirm that a Digital Currency active on the Exchange has been compromised or is under attack, Golix may immediately halt trading, deposits, and withdrawals for such Digital Currency. If it is determined that such an attack caused the Digital Currency to greatly decrease in value, Golix may discontinue trade activity on such cryptocurrency entirely. Resolutions concerning deposits, withdrawals, and user balances for an attacked Digital Currency will be determined on a case-by-case basis. Golix makes no representation and does not warrant the safety of the Exchange and is not liable for any lost value or stolen property, whether or not it was negligent in providing the proper security.
+
+## 10. Regulation
+
+Golix is a duly incorporated company in terms of the laws of Zimbabwe. As with regard its operations no law in Zimbabwe precludes it from running an exchange and the RBZ is aware of our operations and is yet to set any regulations that deal with Digital Currency related businesses.
+
+## 11.(AML) Anti-Money Laundering & (KYC) Know Your Customer Policy
+
+Golix protects itself from involvement in any activity that facilitates money laundering or other criminal activities by following the existent provisions of the laws in Zimbabwe as well as Regulations set by the RBZ incorporating the international best practices.
+Golix aims to reasonably identify each user by crosschecking user data against governmental watch lists, UN sanctions lists as well as 3rd party identity verification and authentication services. If a user or a user’s transaction is flagged as suspicious through our internal controls, Bitfinance will require additional proof of identification from the user and has the right to not permit any trades, deposits, and/or withdrawals until additional and verifiable proof of identity is received and the Compliance Officer has approved the user for use of the Exchange
+By agreeing to our Terms, you acknowledge and understand that Golix maintains verification levels which require user participation and verification in order to obtain, with levelled permissions based on user-supplied information, our ability to verify it, and our internal policies. You accept that you may not be able to achieve a desired level of verification, and Bitfinance reserves the right to determine, at its sole discretion, the appropriate Verification Level for any user, as well as the right to downgrade users without prior notice. Bitfinance may, from time to time, implement policies restricting Verification Levels by nationality, country of residence, or any other factor. This may affect your ability to withdraw funds in your account and you indemnify Bitfinance against any losses associated with an inability to deposit and/or withdraw funds based on your verification level.
+The information required of a User varies and will set the basis upon which a Users wallet is classified. There are three levels through which individuals can transact on the exchange and one level for companies or organizations and these are as follows:
+
+a. Level 1- only the email address needs be furnished
+b. Level 2 – a mobile number needs to be furnished
+c. Level 3 - an national registration identification/drivers licence/passport and a proof of residence document have to be furnished
+
+## 12. Trading Limits
+
+The minimum USD deposit on the exchange shall be the sum of US$100.00 meaning that prior to the deposit of this amount you will not be able to trade on the exchange.
+Due to the staggered levels of verification of identity there shall be limits as to the value to be withdrawn from the Users wallet and these limits are as follows;
+a.	Level 1 : not more than US$10 000.00 per month
+b.	Level 2 : not more than US$50 000.00
+c.	Level 3 : not more than US$250 000.00
+
+## 13. Third Party Content
+
+Golix and its users may provide third party content on the Exchange or its website and may provide links to web pages and content that are not owned or controlled by it (collectively the "Third Party Content") as a service to those interested in this information. Golix does not control, endorse, or adopt any Third Party Content and makes no representation or warranties of any kind regarding the Third Party Content, including but not limited to its accuracy or completeness. You acknowledge and agree that Golix is not responsible or liable in any manner for any Third Party Content and undertakes no responsibility to update or review any Third Party Content. You acknowledge that your use of such Third Party Content is at your own risk. Your business dealings or correspondence with, or participation in promotions of, any third parties, and any Terms, Conditions, warranties, or representations associated with such dealings or promotions, are solely between you and such third parties. Bitfinance is not responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or promotions or as the result of the presence of such Third Party Content on the Site.
+
+## 14. Copyright of Feedback Materials
+
+You acknowledge and agree that any materials, including but not limited to questions, comments, feedback, suggestions, ideas, plans, notes, drawings, original or creative materials or other information, regarding Golix or the Services (collectively, "Feedback") that are provided by you, whether by email, posting to the Site or otherwise, are non-confidential and will become the sole property of Golix. We will own exclusive rights, including all intellectual property rights, and will be entitled to the unrestricted use and dissemination of such Feedback for any purpose, commercial or otherwise, without acknowledgment or compensation to you.
+
+## 15. User Conduct and Obligations
+
+In connection with your use of the Services, you will not:
+
+- Violate or assist any party in violating any law, statute, ordinance, regulation or any rule of any self-regulatory or similar organisation of which you are or are required to be a member through your use of the Services;
+- Provide false, inaccurate or misleading information;
+- Infringe upon Golix's or any third party’s copyright, patent, trademark, or intellectual property rights;
+- Distribute unsolicited or unauthorised advertising or promotional material, any junk mail, spam, or chain letters;
+- Reverse engineer or disassemble any aspect of the Site or Services in an effort to access any source code, underlying ideas and concepts, and algorithms;
+- Take any action that imposes an unreasonable or disproportionately large load on our infrastructure, or detrimentally interfere with, intercept, or expropriate any system, data, or information;
+- Transmit or upload any material to the Site that contains viruses, Trojan horses, worms, or any other harmful or deleterious programs;
+- Otherwise attempt to gain unauthorised access to the Site, other Bitfinance Accounts, computer systems or networks connected to the Site, through password mining or any other means; or
+- Transfer any rights granted to you under these Terms.
+
+## 16. Transferability
+
+While the Account and the Services provided to a user are not transferable under any circumstance and shall be used only by the user, Golix shall have the right to transfer, assign, or sell all the rights, benefits, or obligations to any person and these Terms shall continue to be in force and effect for the benefit of the successors and assigns of Golix.
+
+## 17. Electronic Trading Terms
+
+A transaction on the Exchange may fail for several reasons, including but not limited to change in seller prices, insufficient liquidity, unspecified lot size or unanticipated technical difficulties. We make no representation or warrant that any transaction will be executed properly. Golix is under no circumstances liable for any loss or injury suffered by a failure of a transaction to complete properly. Further, Golix is in no way responsible for notifying you of a transaction failure. The User has full responsibility to determine and inquire into the failure of any transaction the User initiates.
+In the event that you receive any data, information or software other than that which you are entitled to receive pursuant to these Terms & Conditions, you will immediately notify us and will not use, in any way whatsoever, such data, information or software. If you request a withdrawal of funds from your Account and we cannot comply with it without closing some part of your open positions, we will not comply with the request until you have closed sufficient positions to allow you to make the withdrawal.
+We shall be entitled to act for you upon instructions given by or purporting to be given by you or any person authorised on your behalf without further inquiry as to the genuineness, authority, or identity of the person giving or purporting to give such instructions, provided such instruction is accompanied by correct information about your Account.
+Golix reserves the right to refuse to process, or the right to cancel or reverse, any transaction on the Exchange where we suspect the transaction involves money laundering, terrorist financing, fraud, or any other type of crime, as legally required of financial institutions, or if Golix suspects the transaction related to Prohibited Use as stated in our Terms & Conditions.
+
+## 18. Permanent Withdrawal of Service
+
+Golix may:
+
+a. Suspend or terminate your access to the Services, and
+b. Deactivate or cancel your Account as required by a valid subpoena or court order, or if it reasonably suspects you of using your Account in furtherance of illegal activity. You will be permitted to transfer any Digital Currency associated with your Account for ninety (90) days after Account deactivation or cancellation unless such transfer is otherwise prohibited
+
+  i. Under the law, or
+  ii. By a valid subpoena or court order. If any transaction is in a pending state at the time your Account is cancelled or suspended, such transaction may be cancelled and/or refunded as appropriate. You may not cancel your Account to evade an investigation or avoid paying any amounts otherwise due to Bitfinance. Upon cancellation of your Account, you authorise Bitfinance to cancel or suspend pending transactions and, after providing written notice to you, return the funds associated with such transactions to your wallet address. In the event that you or Bitfinance terminates this agreement or your access to the Services, or deactivates or cancels your Account, you will remain liable for all amounts due hereunder. In the event that a technical problem causes system outage or account errors, Bitfinance may temporarily suspend access to your Account until the problem is resolved.
+
+## 19. Ownership of Funds
+
+You hereby certify to us that any funds used by you in connection with the Exchange are either owned by you or that you are validly authorised to carry out transactions using such funds, and that all transactions initiated with your Account are for your own account and not on behalf of any other person or entity.
+And that by agreeing to these Terms & Conditions you acknowledge that Golix for purposes of conducting its business can act as a mobile money merchant agent and that it allows its customers to have their own cryptocurrency wallets and accordingly does not at any point actually hold fiat money or Digital Currencies.
+
+## 20. Indemnification
+
+You agree to indemnify, defend and hold Golix, its affiliates and service providers, and each of their respective officers, directors, agents, joint venturers, employees, and representatives, harmless from any claim or demand (including attorneys’ fees and costs and any fines, fees or penalties imposed by any regulatory authority) arising out of or related to:
+
+i. your breach of these Terms,
+ii. your use of Services, or
+iii. your violation of any law, rule, or regulation, or the rights of any third party.
+
+## 21. Disclosure of Warranties
+
+Golix provides no guarantee as tot he performance or the uninterrupted availability of the services. The services are provided on an "as is", "as available" basis without warranties of any kind, either express or implied. Golix disclaims all warranties, express or implied, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, title and non-infringement with respect to the services.
+Golix does not represent or warrant that the services and the information contained therein are accurate, complete, reliable, current or error-free.
+Golix will make reasonable efforts to ensure that the transactions on the Exchange are processed in a timely fashion, but makes no representations or warranties with respect to the amount of time needed to process such transactions.
+Because Digital Currency transfers on and off the Exchange are dependance upon many factors outside of our control, Golix makes no representations or warranties regarding the success of, or amount of time needed for, Digital Currency transactions.
+Some jurisdictions do not allow the disclaimer of implied terms in contracts with consumers, some or all of the disclaimers in this section may or may not apply to you.
+
+## 22. Limitation on Liability
+To the maximum extend permitted by law, Golix shall have no liability for any damages of any kind (including without limitation, indirect, special, incidental, consequential, or tort damages, or lost profits) in connection with your use of the services, even if Golix has been advised or is aware of the possibility of such damages. In no event will Golix's liability ofr money damages are these terms exceed the amount of fees received from you during the preceding six (6) month period.
+
+## 23. Applicable Law and Venue
+
+These Terms & Conditions and your use of the Services will be governed by and construed in accordance with the laws of Zimbabwe, without resort to its conflict of law provisions. You agree that any action at law or in equity arising out of or relating to these Terms not subject to arbitration (as set forth below), will be filed in the court with appropriate jurisdiction to deal with the matter in Zimbabwe. You hereby irrevocably and unconditionally consent and submit to the exclusive jurisdiction of such courts over any suit, action or proceeding arising out of these Terms & Conditions.
+
+## 24. Arbitration
+
+Except for claims for injunctive or equitable relief or claims regarding intellectual property rights (which may be brought in any competent court without the posting of a bond), any dispute arising under your use of the Services shall be finally settled on an individual basis through confidential, binding arbitration in accordance with the Zimbabwean Laws arbitration of consumer-related disputes and you and Bitfinance hereby expressly consent to arbitration being the method of dispute resolution. The arbitration shall take place in Harare, Zimbabwe in the English language and the arbitral decision may be enforced in any court with jurisdiction.  The arbitrator shall be appointed by the Chairman of the Commercial Arbitration Center in Zimbabwe and such arbitrator will set the terms as will be agreed upon by the parties in terms of how the proceedings will be conducted such as calling for submissions and determining motions on briefs, without oral hearings. The prevailing party in any action or proceeding to enforce this agreement shall be entitled to costs and attorneys' fees. Additionally, you hereby waive your right to participate in a class-wide arbitration.
+
+## 25. Survival
+
+Sections 13 (Third Party Content), 14 (Copyright of Feedback Materials), 20 (Indemnification), 21 (Disclaimer of Warranties), 22 (Limitation on Liability), 23 (Applicable Law and Venue), 25 (Survival), 26 (Severability), and 28 (Force Majeure) will survive any termination or expiration of these Terms.
+
+## 26. Severability
+
+If any provision of these Terms is deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and will not affect the validity and enforceability of any remaining provisions.
+
+## 27. Integration
+
+The failure of us to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision. These Terms and any policies or operating rules posted by us constitutes the entire agreement and understanding between you and us and govern your use of the Services, superseding any prior or contemporaneous agreements, communications and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of these Terms & Conditions). Any ambiguities in the interpretation of these Terms shall not be construed against the drafting party.
+
+## 28. Force Majeure
+
+In addition to applicable disclaimers stated above, Golix's performance under these Terms shall be excused in the event of interruption and/or delay due to, or resulting from, causes beyond its reasonable control, including but not limited to acts of God, acts of any government, war or other hostility, civil disorder, the elements, fire, flood, earthquake, explosion, embargo, acts of terrorism, power failure, equipment failure, industrial or labor disputes or controversies, acts of any third party data provider(s) or other third party information provider(s), third party software, third party cloud services or communication method interruptions.
+
+## 29. Government Language and Translations
+
+You agree that these Terms & Condition, Golix's Privacy Policy and other notices posted through the Services have been drafted in English. Although translations in other languages of any of the foregoing documents could be made available, such translations may not be up to date or complete. Accordingly, you agree that in the event of any conflict between the English language version of the foregoing documents and any other translations thereto, the English language version of such documents shall govern.
+
+## 30. Questions and Contact Information
+
+To contact support, go to [support.golix.com](https://support.golix.com) and open a ticket. Please provide all relevant information, including your username and transaction IDs of any related deposits. Although we make no representations or provide no warranties about the speed of response, we will get back to you as soon as possible, typically within 48 hours.

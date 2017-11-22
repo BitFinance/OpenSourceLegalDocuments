@@ -1,10 +1,10 @@
-# BitFinance Anti Money Laundering Policy
+# Golix KYC & AML Policy
 
 .Document Control
 |===
-| **Last Review Date** |  **Review Undertaken By** |  **Next Review Date**
-| - | - | -
-| - | - | -
+| **Last Review Date** |  **Review Undertaken By** |  **Next Review Date** |  **Comments**
+| 2017-11-22 20:18 CAT | @tkembo | - | Document created
+| - | - | - | -
 |===
 
 .Document Approvals

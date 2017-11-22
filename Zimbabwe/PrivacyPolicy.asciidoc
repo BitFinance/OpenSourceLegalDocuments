@@ -1,0 +1,59 @@
+# Golix Privacy Policy
+
+.Document Control
+|===
+| **Last Review Date** |  **Review Undertaken By** |  **Next Review Date** |  **Comments**
+| 2017-11-22 20:18 CAT | @tkembo | - | Document created
+| - | - | - | -
+|===
+
+.Document Approvals
+|===
+| **Name** | **Title** | **Date of Issue** | **Version Number**
+| - | - | - | -
+| - | - | - | -
+|===
+
+This Privacy Policy, as amended or otherwise changed from time to time (the “Privacy Policy”), explains the manner in which Bitfinance (Private) Limited ("Golix") collects, uses, maintains and discloses user information obtained through the golix.com website (the “Site”). The terms “we,” “us,” and “our” refer to Bitfinance (Private) Limited. By using the Site, you (“User”) consent to the data practices prescribed in this Privacy Policy. On occasion, Golix may revise this Privacy Policy to reflect changes in law, our personal data collection and use practices, the features on the Site, or advances in technology. If material changes are made to this Privacy Policy, the changes will be prominently posted on the Site. Capitalised terms not defined herein shall have the meanings ascribed to them in our Terms & Conditions.
+
+Please note: This Privacy Policy does not cover any information that we may receive about you through channels external to our Site.
+
+## The information we collect
+
+Before an account is opened on our Site, we may require that you avail to us your phone number as well as your email address. Upon creating an account on our Site, we may require that you avail to us your full name, date of birth, national registration number, copy of your identity document, (if you are Zimbabwean); and if the applicant is a foreign national temporarily resident in Zimbabwe their valid passport with a valid permit, a certificate of incorporation together with the latest annual tax return to the Zimbabwe Revenue Authority if you are a body corporate incorporated in Zimbabwe; a copy of your password (if you are not Zimbabwean); and your residential address.
+
+We also collect the information you provide to BitFinance when interacting with our customer support or other staff members via email, online form, social media, or other correspondence. We also collect passive information, which includes, but is not limited to, IP addresses, referral URLs, your location, and other session data.
+
+With regards to transactions we collect the following information the name, address and occupation or, where appropriate, the business or principal activity of each person conducting a transaction and, if known, on whose behalf the transaction is being conducted; and the date and specific time of each transaction i.e when it was initiated and completed; and the type, value or amount of currency involved in the transaction, including what denomination purchased or sold on the Site and the name, and any payment instructions; and a description of the transactions, the name of the officer, employee or agent who prepared the report of the transaction; and the total amount of fees and charges received and paid to, by or on its behalf
+
+## How we use that information
+
+We collect your personal information to provide the Services to you. We notify you about your account activity, process transactions, provide customer support services, improve our product, identify, prevent, and report potentially suspicious, fraudulent, or illegal activities, and we notify you about important changes to our Terms of Use.
+
+## How we use your personal information
+
+It may be necessary to disclose your information to comply with any law, subpoenas, court orders, or government or Regulatory request, defend against claims, investigate or bring legal action against illegal or suspected illegal activities, enforce our Terms & Conditions, or to protect the rights, safety, and security of Bitfinance, our users, or the public. golix.com may contain links to other 3rd party websites, which are regulated by their own privacy policies. Bitfinance is not responsible for the privacy policies of these 3rd party websites even if they were accessed using the links from our site.
+
+Other than as stated in this Privacy Policy, Bitfinance does not disclose any of your personal information to third parties unless required to do so by law enforcement, court order, or in compliance with legal reporting obligations.
+
+## How you can update your information
+
+You can update your information at any point in time and you do so by contacting us through our customer support system.
+
+We shall retain all information and transactional records for a period of at least five years from the date of their creation to ensure that we comply with our statutory obligations, and be able to assist in dispute resolution.
+
+Should you wish to close your account please advise us through our customer services mechanism.
+
+## How we use cookies and persistent local data
+
+We collect web browser Information in order to enhance your experience on the site and track how the Services are being used. Cookies are small data files that are stored on your computer’s hard drive, and in addition to using cookies to provide you with a better user experience, we use cookies to identify and prevent fraudulent activity. The information collected can include, but is not limited to, your IP address, referral URLs, the type of device you use, your operating system, the type of browser you use, geographic location, and other session data. Cookies are not permanent and will expire after a short time period of inactivity. You may opt to deactivate your cookies, but it is important to note that you may not be able to access or use some features of our site. Please note that Bitfinance is not responsible or can be held liable for any loss resulting from your decision or inability to use such features.
+
+## Your information is secure
+
+We take the protection of your personal information seriously. We use industry-standard data encryption technology and have implemented restrictions related to the storage of and the ability to access your personal information.
+
+Please note that no transmission over the Internet or method of electronic storage can be guaranteed to be 100% secure.
+
+## Contacting Us
+
+If you have any questions about our Privacy Policy as outlined above, please contact us through our [Customer Support](mailto:support@golix.com) mechanism

@@ -1,5 +1,19 @@
 # Convertible Note Agreement
 
+.Document Control
+|===
+| **Last Review Date** |  **Review Undertaken By** |  **Next Review Date**
+| - | - | -
+| - | - | -
+|===
+
+.Document Approvals
+|===
+| **Name** | **Title** | **Date of Issue** | **Version Number**
+| - | - | - | -
+| - | - | - | -
+|===
+
 *Issuer:*  **<YOUR_COMPANY_NAME_HERE>** (Company Reg Number **<COMPANY_REGISTRATION_NUMBER_HERE>**) (hereinafter referred to as the “issuer”), a company duly incorporated in terms of the laws of Zimbabwe, situated at *<YOUR_COMPANY_ADDRESS_HERE>*.
 
 *Purchaser:*  **<NAME_GOES_HERE>**    (hereinafter referred to as “*Purchaser*” which expression shall, where the context so requires, include Purchaser’s successors in title and permitted assigns).
