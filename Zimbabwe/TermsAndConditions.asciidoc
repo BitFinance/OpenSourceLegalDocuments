@@ -18,7 +18,7 @@ By accessing or using the Golix website located at https://golix.com (the “Sit
 Bitfinance reserves the right to change or modify the terms and conditions contained in these Terms, including but not limited to any policy or guideline of the Site, at any time and at its sole discretion. We will provide notice of these changes by posting the revised Terms to the Site and changing the "Last Review Date" date at the top of the Terms, or by emailing users at their provided email addresses, or by any other means as determined by Bitfinance. The decision of which notification chosen will be left to Bitfinance's sole discretion. Using a particular form of notice in some instances does not obligate us to use the same form in other instances. Any changes or modifications will be effective immediately upon updating this document or at the instant that Bitfinance transmits the information to the users (e.g. via email). These changes will apply at that instant to all then current and subsequent uses of the Site. You waive any right you may have to receive specific notice of such changes or modifications. Your continued use of our Site acts as acceptance of such changes or modifications. If you do not agree to the Terms in effect when you access or use the Site, you must stop using the Site.
 
 ## 1. Preamble
-Bitfinance provides an online platform (Exchange) that allows users to trade in digital currencies such as bitcoin, Bitcoin Cash, Dash, Litecoin, Bitcoin Gold and Ethereum.
+Bitfinance provides an online platform (An Exchange) that allows users to trade in digital currencies such as bitcoin, Bitcoin Cash, Dash, Litecoin, Bitcoin Gold and Ethereum.
 
 ## 2. Eligibility
 
