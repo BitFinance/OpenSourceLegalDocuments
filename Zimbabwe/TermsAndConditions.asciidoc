@@ -162,7 +162,7 @@ iii. your violation of any law, rule, or regulation, or the rights of any third 
 
 ## 21. Disclosure of Warranties
 
-Golix provides no guarantee as tot he performance or the uninterrupted availability of the services. The services are provided on an "as is", "as available" basis without warranties of any kind, either express or implied. Golix disclaims all warranties, express or implied, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, title and non-infringement with respect to the services.
+Golix provides no guarantee as to the performance or the uninterrupted availability of the services. The services are provided on an "as is", "as available" basis without warranties of any kind, either express or implied. Golix disclaims all warranties, express or implied, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, title and non-infringement with respect to the services.
 Golix does not represent or warrant that the services and the information contained therein are accurate, complete, reliable, current or error-free.
 Golix will make reasonable efforts to ensure that the transactions on the Exchange are processed in a timely fashion, but makes no representations or warranties with respect to the amount of time needed to process such transactions.
 Because Digital Currency transfers on and off the Exchange are dependance upon many factors outside of our control, Golix makes no representations or warranties regarding the success of, or amount of time needed for, Digital Currency transactions.
