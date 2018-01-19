@@ -140,9 +140,11 @@ BitFinance will take measures to prevent BitFinance and its employees from being
 
 ## 14. Internal Reporting Procedures
 
-**14.1 BitFinance shall maintain internal controls and internal reporting procedures through which an employee is to report any information which comes to the employee’s attention in the course of employment and which gives rise to knowledge or suspicion by the employee that another person is engaged in money laundering.**
+**14.1 Bitfinance employees shall forthwith notify the Director of Compliance and Legal Issues or such other officer in that capacity of any transaction they reasonably believe to be associated with money laundering or any such similar criminal activity they would have come across in their day to day execution of their duties.**
 
-**14.2 All transactions above and equivalent to USD 10,000 shall be accompanied by appropriate information from the customer through BitFinance prescribed forms.**
+**14.2 The said notification shall, where possible, be supported by a written statement as to why the said transaction has been linked to money laundering or such similar criminal enterprise.**
+
+**14.3 In the event that the said Director or officer is not available for whatever reason the said employee is not precluded from reporting directly to the Anti Money Laundering Unit if he or she has information which he or she has on reasonable grounds reason to suspect may be relevant to the investigation or prosecution of a person for money-laundering or a serious offence.**
 
 ## 15. Customer Due Diligence
 
