@@ -79,11 +79,11 @@ BitFinance will take measures to prevent BitFinance and its employees from being
 
 1. Before it becomes fully operational, Bitfinance shall open an account with a registered commercial bank in Zimbabwe.
 2. BitFinance shall, prior to operation, ensure that it is registered with Zimbabwe Revenue Authority (ZIMRA) and obtain VAT registration from the said authority. 
-2. All excess cash held by Bitfinance shall be deposited in the official bank account within twenty (24) hours unless such period of time falls on a non- banking day in which case the next available banking day will suffice.
-3. Unless it cannot be avoided Bitfinance shall ensure that it settles all amounts due from it using non cash based means or facilities.
-4. As part of its operations Bitfinance shall keep records that clearly show the following:
+3. All excess cash held by Bitfinance shall be deposited in the official bank account within twenty (24) hours unless such period of time falls on a non- banking day in which case the next available banking day will suffice.
+4. Unless it cannot be avoided Bitfinance shall ensure that it settles all amounts due from it using non cash based means or facilities.
+5. As part of its operations Bitfinance shall keep records that clearly show the following:
 - its cash receipts on each day; and
--  its cash payments on each day and the person to whom and purpose for which such payments are made; and
+- its cash payments on each day and the person to whom and purpose for which such payments are made; and
 - its payments otherwise than in cash on each day and the person to whom and purpose for which such payments are made.
 
 ## 8. Risks and Obligations to BitFinance
@@ -128,9 +128,11 @@ v. Level 5 – International Companies/organisations – Companies or organisati
 
 1. BitFinance shall employ a person who is aptly qualified with skills and experience in Exchange Control Law and Procedure and on Anti- Money Laundering Law, responsible for coordinating and monitoring day-to-day compliance with the anti-money laundering measures set out herein; and such person shall also provide continuous training for members of staff to ensure they have a fulsome understanding of anti-money laundering requirements and to enable them to identify transactions required to be reported and maintain records required to be kept in accordance with the existing  laws on anti-money laundering and this policy.
 2. Whenever it appears that BitFinance is a party or facilitator to a transaction and it has reasonable grounds1 to suspect that information it has concerning the  said transaction may be relevant to the investigation or prosecution of a person for money laundering or a serious offence, it shall within forty eight (48) hours and, wherever possible, before the transaction is carried out—
+
 i. take reasonable steps to ascertain the origin and ultimate destination of the funds involved, and the identity and address of any ultimate beneficiary; and
 ii. prepare a report of the transaction in accordance with the terms set out in any applicable laws or guidelines and
 iii. communicate the information contained in the report to the Anti Money Laundering Unit in writing.
+
 3. The report prepared in terms of subsection D (2)(ii) shall contain particulars of the matters specified in section C above and shall contain a statement of the grounds on which Bitfinance holds the suspicion; and
 
 4. It shall be signed or otherwise authenticated by the director of compliance and legal issues or an officer within a similar capacity. 
@@ -194,11 +196,11 @@ In anticipating the conduct that can be deemed suspicious the company will draw 
 - An account for which several persons are signatories, yet the persons appear to have no relation among each other (either family ties or business relationship). 
 - The opening by the same person of multiple accounts into which numerous small deposits are made that in aggregate are not commensurate with the expected income of the customer. 
 
-** In the case of non- profit or charitable organizations or other juristic entities ** 
+**In the case of non- profit or charitable organizations or other juristic entities** 
 
 - Financial transactions for which there appears to be no link between the stated activity of the organization and the other parties in the transaction. 
 
-** In the case of funds transfer activities ** 
+**In the case of funds transfer activities** 
 
 - The sending or receipt of frequent or large volumes of wire transfers to and from offshore institutions 
 - Customers transferring large sums of money to or from overseas with specific requests for payment in cash. 
@@ -206,28 +208,29 @@ In anticipating the conduct that can be deemed suspicious the company will draw 
 - Significant changes in currency shipment patterns between correspondent banks. 
 - Deposits that are followed within a short time by wire transfers of funds to or through a location of specific concern, such as a country with lax controls 
 
-** Insufficient or suspicious information ** 
+**Insufficient or suspicious information** 
 
 - A customer that is reluctant to provide details about its activities as requested by the KYC/AML Policy form or to provide financial statements. 
 - A business that provides financial statements that are noticeably different from those of similar businesses. 
 
-** Attempts to avoid reporting or record keeping requirements **
+**Attempts to avoid reporting or record keeping requirements**
 
 - A customer who is reluctant to provide information required for identification, and record keeping purposes. 
 - A customer who attempts to coerce an employee not to file required record keeping or reporting forms. 
 - A customer who requests for exemption from reporting or other requirements. 
 - The deposit or withdrawal of cash in amounts which fall consistently just below identification or reporting thresholds.
 
-** Financial institution employees **
+**Financial institution employees**
 - An employee whose lavish lifestyle cannot be supported by his salary.
 - Reluctance by an employee to take a vacation.
 - Mysterious disappearances or unexplained shortages of significant amounts of company funds. 
 
-** MINIMUM CONTENTS OF SUSPICIOUS TRANSACTION / ACTIVITY REPORT **
+**MINIMUM CONTENTS OF SUSPICIOUS TRANSACTION / ACTIVITY REPORT**
 
-** 1. Reporting Institution Information **
+**1. Reporting Institution Information**
 Name and address of institution. Name and address of branch where the activity occurred 
-** 2. Suspect Information **
+
+**2. Suspect Information**
 Full Names or Name of Entity. Address. Phone Number - Residence 
 - Work Occupation / Type of business 
 Date of birth 
@@ -235,15 +238,20 @@ Forms of identification - National registration number
 - Valid Passport Number 
 - Zimbabwean Driver’s Licence Number
 Relationship to institution (Employee, Director, Officer, Shareholder, Customer etc.) 
-** 3. Description of the suspicious activity **
+
+**3. Description of the suspicious activity**
 Type of transaction. Amount involved. Other details necessary to understand the transaction 
-** 4. Action already taken **
+
+**4. Action already taken**
 If an insider is involved what action has been taken?
 Has any law enforcement agency been advised? If yes, provide name of agency, and address, telephone number of person(s) contacted, and by what method (telephone, written communication, etc) 
-** 5. Contact person **
+
+**5. Contact person**
 Full names, title and/or designation 
 Contact telephone number, email address and physical address
-** 6. Date of suspicious transaction and date of preparation of report **
+
+**6. Date of suspicious transaction and date of preparation of report**
+
 ## 16. Guidance and Training
 
 **16.1 BitFinance will make all employees aware of the requirements and obligations placed on it by the Money Laundering and Proceeds of Crime Act of Zimbabwe and give targeted training to those most likely to encounter money laundering.**
