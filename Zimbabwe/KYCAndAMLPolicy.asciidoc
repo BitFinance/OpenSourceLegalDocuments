@@ -26,7 +26,7 @@ BitFinance will take measures to prevent BitFinance and its employees from being
 - Where these policies and procedures are in conflict with the Zimbabwean law, the Articles or the Memorandum, precedence shall be given to the  Zimbabwean law, the Articles and the Memorandum (in that order).
 - It is the responsibility of all staff of BitFinance to familiarise themselves with the contents of these policies and procedures.  Ignorance of the contents of this Manual will not be accepted as a reason for failure to comply with policies and procedures.
 
- **1.2 The Money Laundering and Proceeds of Crime Act places obligations on BitFinance and its employees the following key points with respect to suspected money laundering:**
+**1.2 The Money Laundering and Proceeds of Crime Act places obligations on BitFinance and its employees the following key points with respect to suspected money laundering:**
 
 - The detection of suspected money laundering.
 - Exercising vigilance for signs of money laundering.
@@ -130,11 +130,8 @@ v. Level 5 – International Companies/organisations – Companies or organisati
 
 2. Whenever it appears that BitFinance is a party or facilitator to a transaction and it has reasonable grounds1 to suspect that information it has concerning the  said transaction may be relevant to the investigation or prosecution of a person for money laundering or a serious offence, it shall within forty eight (48) hours and, wherever possible, before the transaction is carried out—
 
-i. Take reasonable steps to ascertain the origin and ultimate destination of the funds involved, and the identity and address of any ultimate beneficiary; and
-ii. Prepare
-
-ii. Prepare a report of the transaction in accordance with the terms set out in any applicable laws or guidelines and
-
+i. Take reasonable steps to ascertain the origin and ultimate destination of the funds involved, and the identity and address of any ultimate beneficiary;
+ii. Prepare a report of the transaction in accordance with the terms set out in any applicable laws or guidelines
 iii. Communicate the information contained in the report to the Anti Money Laundering Unit in writing.
 
 3. The report prepared in terms of subsection D (2)(ii) shall contain particulars of the matters specified in section C above and shall contain a statement of the grounds on which Bitfinance holds the suspicion; and
