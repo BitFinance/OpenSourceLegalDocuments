@@ -106,7 +106,7 @@ BitFinance will take measures to prevent BitFinance and its employees from being
 
 **10.1 Suspicious transactions have many broad characteristics. However, as a general rule, a suspicious transaction is one that departs from the normal patterns of account activity that has been noted on a customer's account. Any complex, unusually large transaction(s), or, any unusual pattern of transaction(s) absent of any apparent economic, commercial, or lawful purpose may be considered to be a suspicious transaction.**
 
-**10.2 To be able to identify transactions that appear to be suspicious, BitFinance shall take appropriate measures to ensure that it knows its customers‟ (KYC)
+**10.2 To be able to identify transactions that appear to be suspicious, BitFinance shall take appropriate measures to ensure that it knows its customers‟ (KYC)**
 
 ## 11. Customer Verification- Account Opening
 Prior to allowing a person or entity to be active or open an account on the exchange, Bitfinance shall take steps to confirm the identity of such person or entity in the following manner,
@@ -179,18 +179,21 @@ a. to receive periodic account statements and valuations;
 b.  to receive a receipt or trade ticket, or other evidence of a transaction; and
 
 **Examples of Suspicious Activity or Transactions** 
+
 In anticipating the conduct that can be deemed suspicious the company will draw from the following examples:
-Unusual characteristics or activities and changes in transactions 
-Cash deposits relating to transactions that would normally be settled by RTGS. For example corporate accounts where deposits or withdrawals are primarily in cash rather than RTGS. 
-	Request to exchange large quantities of low denominations for higher denominations. 
-	Matching payments out with credits paid in by cash on the same or previous day. 
-	Significant turnover in large denomination bills uncharacteristic for the particular branch or location. 
-	Rapid increase in size and frequency of cash deposits without any corresponding increase in non-cash deposits. 
-	A customer who suddenly pays up a large deposit to acquire bitcoins on the exchange with no reasonable explanation of the source of funds. 
-	Mixing of cash deposits and monetary instruments in an account which transactions do not appear to have any relation to the normal use of the account.
-	A dormant account containing a minimal sum suddenly receives a deposit or series of deposits followed by daily cash withdrawals running down the transferred amount. 
-	An account for which several persons are signatories, yet the persons appear to have no relation among each other (either family ties or business relationship). 
-	The opening by the same person of multiple accounts into which numerous small deposits are made that in aggregate are not commensurate with the expected income of the customer. 
+
+- Unusual characteristics or activities and changes in transactions 
+- Cash deposits relating to transactions that would normally be settled by RTGS. For example corporate accounts where deposits or withdrawals are primarily in cash rather than RTGS. 
+- Request to exchange large quantities of low denominations for higher denominations. 
+- Matching payments out with credits paid in by cash on the same or previous day. 
+- Significant turnover in large denomination bills uncharacteristic for the particular branch or location. 
+- Rapid increase in size and frequency of cash deposits without any corresponding increase in non-cash deposits. 
+- A customer who suddenly pays up a large deposit to acquire bitcoins on the exchange with no reasonable explanation of the source of funds. 
+- Mixing of cash deposits and monetary instruments in an account which transactions do not appear to have any relation to the normal use of the account.
+- A dormant account containing a minimal sum suddenly receives a deposit or series of deposits followed by daily cash withdrawals running down the transferred amount. 
+- An account for which several persons are signatories, yet the persons appear to have no relation among each other (either family ties or business relationship). 
+- The opening by the same person of multiple accounts into which numerous small deposits are made that in aggregate are not commensurate with the expected income of the customer. 
+
 ** In the case of non- profit or charitable organizations or other juristic entities ** 
 Financial transactions for which there appears to be no link between the stated activity of the organization and the other parties in the transaction. 
 ** In the case of funds transfer activities ** 
