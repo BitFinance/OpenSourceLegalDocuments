@@ -131,7 +131,9 @@ v. Level 5 – International Companies/organisations – Companies or organisati
 2. Whenever it appears that BitFinance is a party or facilitator to a transaction and it has reasonable grounds1 to suspect that information it has concerning the  said transaction may be relevant to the investigation or prosecution of a person for money laundering or a serious offence, it shall within forty eight (48) hours and, wherever possible, before the transaction is carried out—
 
 i. Take reasonable steps to ascertain the origin and ultimate destination of the funds involved, and the identity and address of any ultimate beneficiary; and
+
 ii. Prepare a report of the transaction in accordance with the terms set out in any applicable laws or guidelines and
+
 iii. Communicate the information contained in the report to the Anti Money Laundering Unit in writing.
 
 3. The report prepared in terms of subsection D (2)(ii) shall contain particulars of the matters specified in section C above and shall contain a statement of the grounds on which Bitfinance holds the suspicion; and
