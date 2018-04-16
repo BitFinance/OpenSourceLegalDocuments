@@ -169,7 +169,7 @@ Because Digital Currency transfers on and off the Exchange are dependance upon m
 Some jurisdictions do not allow the disclaimer of implied terms in contracts with consumers, some or all of the disclaimers in this section may or may not apply to you.
 
 ## 22. Limitation on Liability
-To the maximum extend permitted by law, Golix shall have no liability for any damages of any kind (including without limitation, indirect, special, incidental, consequential, or tort damages, or lost profits) in connection with your use of the services, even if Golix has been advised or is aware of the possibility of such damages. In no event will Golix's liability ofr money damages are these terms exceed the amount of fees received from you during the preceding six (6) month period.
+To the maximum extend permitted by law, Golix shall have no liability for any damages of any kind (including without limitation, indirect, special, incidental, consequential, or tort damages, or lost profits) in connection with your use of the services, even if Golix has been advised or is aware of the possibility of such damages. In no event will Golix’s liability for money damages under these terms exceed the amount of fees received from you during the preceding six (6) month period.
 
 ## 23. Applicable Law and Venue
 
